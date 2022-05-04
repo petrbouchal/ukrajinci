@@ -1,0 +1,192 @@
+
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: aarch64-apple-darwin20 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+* Project '~/cpers/ukrajinci' loaded. [renv 0.15.4]
+[Previously saved workspace restored]
+
+> #!/usr/bin/env Rscript
+> 
+> # This is a helper script to run the pipeline.
+> # Choose how to execute the pipeline below.
+> # See https://books.ropensci.org/targets/hpc.html
+> # to learn about your options.
+> 
+> targets::tar_make()
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+[32m✓[39m skip target mv_urls
+[32m✓[39m skip target obyv_orp
+[32m✓[39m skip target paq_indexy_xlsx_url
+[32m✓[39m skip target kody_kraje_nuts
+[32m✓[39m skip target kody_okresy_nuts
+[32m✓[39m skip target kody_orp
+[32m✓[39m skip target kody_okresy
+[32m✓[39m skip target kody_kraje
+[32m✓[39m skip target kody_mc
+[32m✓[39m skip branch xlsx_metadata_94004e11
+[32m✓[39m skip branch xlsx_metadata_17f7c51a
+[32m✓[39m skip branch xlsx_metadata_b86e4c0a
+[32m✓[39m skip pattern xlsx_metadata
+[32m✓[39m skip target paq_indexy_xlsx
+[32m✓[39m skip target xlsx_paths
+[32m✓[39m skip target xlsx_urls
+[32m✓[39m skip target paq_indexy_file
+[32m✓[39m skip branch xlsx_files_ea474075
+[32m✓[39m skip branch xlsx_files_d97b4f4a
+[32m✓[39m skip branch xlsx_files_f5a8ca88
+[32m✓[39m skip branch xlsx_files_a3faa9e4
+[32m✓[39m skip branch xlsx_files_ba7af24b
+[32m✓[39m skip branch xlsx_files_61a97819
+[32m✓[39m skip branch xlsx_files_790df340
+[32m✓[39m skip branch xlsx_files_cbf5e90b
+[32m✓[39m skip branch xlsx_files_86014c98
+[32m✓[39m skip branch xlsx_files_486f961e
+[32m✓[39m skip branch xlsx_files_c43d0295
+[32m✓[39m skip branch xlsx_files_3ddba6d6
+[32m✓[39m skip branch xlsx_files_fc77d21e
+[32m✓[39m skip branch xlsx_files_d43160a5
+[32m✓[39m skip branch xlsx_files_2212c800
+[32m✓[39m skip branch xlsx_files_d22b2929
+[32m✓[39m skip branch xlsx_files_0e5b9d31
+[32m✓[39m skip branch xlsx_files_d500660d
+[32m✓[39m skip branch xlsx_files_abd587c2
+[32m✓[39m skip branch xlsx_files_b4f80069
+[32m✓[39m skip branch xlsx_files_bafe0e2e
+[32m✓[39m skip branch xlsx_files_e58b44dd
+[32m✓[39m skip branch xlsx_files_4b2272d2
+[32m✓[39m skip branch xlsx_files_d45212de
+[32m✓[39m skip branch xlsx_files_7dee5378
+[32m✓[39m skip branch xlsx_files_773e2313
+[32m✓[39m skip branch xlsx_files_6b19698c
+[32m✓[39m skip branch xlsx_files_c3692c0f
+[32m✓[39m skip branch xlsx_files_18ba8388
+[32m✓[39m skip branch xlsx_files_72f2ef3b
+[32m✓[39m skip branch xlsx_files_0d1028ac
+[32m✓[39m skip branch xlsx_files_10f0804e
+[32m✓[39m skip branch xlsx_files_84aba0cf
+[32m✓[39m skip branch xlsx_files_72b71ed3
+[32m✓[39m skip branch xlsx_files_751418fa
+[32m✓[39m skip branch xlsx_files_d6934873
+[32m✓[39m skip branch xlsx_files_8187e5dc
+[32m✓[39m skip branch xlsx_files_dff0de25
+[32m✓[39m skip branch xlsx_files_c7387b3d
+[32m✓[39m skip branch xlsx_files_08e66adc
+[32m✓[39m skip branch xlsx_files_8f6b530a
+[32m✓[39m skip branch xlsx_files_c195efce
+[32m✓[39m skip branch xlsx_files_aa7c64c9
+[32m✓[39m skip branch xlsx_files_dae88e2a
+[32m✓[39m skip branch xlsx_files_50760d6b
+[32m✓[39m skip branch xlsx_files_5970404e
+[32m✓[39m skip branch xlsx_files_78dcd5f7
+[32m✓[39m skip branch xlsx_files_bd18b256
+[32m✓[39m skip branch xlsx_files_9d70cbb2
+[32m✓[39m skip branch xlsx_files_957e7bb2
+[32m✓[39m skip branch xlsx_files_272538ec
+[32m✓[39m skip branch xlsx_files_43eb31a1
+[32m✓[39m skip branch xlsx_files_5a96ebf6
+[32m✓[39m skip branch xlsx_files_5b553f17
+[32m✓[39m skip branch xlsx_files_f68e9e1d
+[32m✓[39m skip branch xlsx_files_22e686fc
+[32m✓[39m skip pattern xlsx_files
+[32m✓[39m skip target paq_indexy
+[32m✓[39m skip branch dt_all_e99e2f85
+[32m✓[39m skip branch dt_all_d2c111d9
+[32m✓[39m skip branch dt_all_1dcc66c8
+[32m✓[39m skip branch dt_all_2fb3d1d2
+[32m✓[39m skip branch dt_all_7bf8bf6e
+[32m✓[39m skip branch dt_all_8e7126f5
+[32m✓[39m skip branch dt_all_5845e74f
+[32m✓[39m skip branch dt_all_21955776
+[32m✓[39m skip branch dt_all_d27c437f
+[32m✓[39m skip branch dt_all_abf09f77
+[32m✓[39m skip branch dt_all_4e7cbf74
+[32m✓[39m skip branch dt_all_db610608
+[32m✓[39m skip branch dt_all_421d90bf
+[32m✓[39m skip branch dt_all_a71e031c
+[32m✓[39m skip branch dt_all_a4e25870
+[32m✓[39m skip branch dt_all_fce0aa1d
+[32m✓[39m skip branch dt_all_59c43ce2
+[32m✓[39m skip branch dt_all_4b8ddf5f
+[32m✓[39m skip branch dt_all_5abb4aeb
+[32m✓[39m skip branch dt_all_296f18c8
+[32m✓[39m skip branch dt_all_8ad148a6
+[32m✓[39m skip branch dt_all_a8352763
+[32m✓[39m skip branch dt_all_f9e9a2df
+[32m✓[39m skip branch dt_all_58f50377
+[32m✓[39m skip branch dt_all_daa71823
+[32m✓[39m skip branch dt_all_48cee9e6
+[32m✓[39m skip branch dt_all_4d834bc7
+[32m✓[39m skip branch dt_all_c59e9570
+[32m✓[39m skip branch dt_all_45d69356
+[32m✓[39m skip branch dt_all_87264932
+[32m✓[39m skip branch dt_all_dd9f1b65
+[32m✓[39m skip branch dt_all_dd9d228a
+[32m✓[39m skip branch dt_all_08b34e1a
+[32m✓[39m skip branch dt_all_f44e9968
+[32m✓[39m skip branch dt_all_9c0a2376
+[32m✓[39m skip branch dt_all_a8fa1ada
+[32m✓[39m skip branch dt_all_2e825e22
+[32m✓[39m skip branch dt_all_4c784661
+[32m✓[39m skip branch dt_all_bb291294
+[32m✓[39m skip branch dt_all_114349ce
+[32m✓[39m skip branch dt_all_1cd373ad
+[32m✓[39m skip branch dt_all_be7894af
+[32m✓[39m skip branch dt_all_80199095
+[32m✓[39m skip branch dt_all_ad99b56c
+[32m✓[39m skip branch dt_all_f3df2235
+[32m✓[39m skip branch dt_all_68c1e7d9
+[32m✓[39m skip branch dt_all_ad17e041
+[32m✓[39m skip branch dt_all_ac434def
+[32m✓[39m skip branch dt_all_01fedd03
+[32m✓[39m skip branch dt_all_7937aa1b
+[32m✓[39m skip branch dt_all_e1a8f76c
+[32m✓[39m skip branch dt_all_3a4d8b02
+[32m✓[39m skip branch dt_all_b9084d67
+[32m✓[39m skip branch dt_all_8250cc4e
+[32m✓[39m skip branch dt_all_bc04148c
+[32m✓[39m skip branch dt_all_09616f26
+[32m✓[39m skip pattern dt_all
+[32m✓[39m skip target compiled_raw
+[32m✓[39m skip target compiled_raw_csv
+[32m✓[39m skip target compiled_orp
+[32m✓[39m skip target compiled_orp_csv
+[32m✓[39m skip target compiled_orp_csv_subset
+[32m✓[39m skip pipeline: 0.54 seconds
+> # targets::tar_make_clustermq(workers = 2) # nolint
+> # targets::tar_make_future(workers = 2) # nolint
+> 
+> proc.time()
+   user  system elapsed 
+  1.479   0.358   2.613 
