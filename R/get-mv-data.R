@@ -34,3 +34,11 @@ load_one_excel <- function(path) {
     rename(obec_kod = kod_obce)
 }
 
+download_and_load_one_excel <- function(url, path, fileext = ".xls") {
+
+  tf <- tempfile(fileext = fileext)
+  curl::curl_download(url, tf)
+  load_one_excel(tf)
+
+}
+

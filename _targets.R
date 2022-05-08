@@ -3,7 +3,7 @@ library(tarchetypes)
 
 tar_option_set(
   packages = c("tibble", "dplyr", "czso", "tidyr", "rvest", "stringr", "purrr",
-               "readxl", "lubridate", "readr", "arrow", "forcats")
+               "readxl", "lubridate", "readr", "arrow", "forcats", "writexl")
   )
 
 
@@ -51,6 +51,8 @@ list(
              pattern = map(compiled_raw)),
   tar_file(compiled_orp_csv, write_data(compiled_orp, write_csv,
                                         file.path("data-export", "compiled-orp.csv"))),
+  tar_file(compiled_orp_excel, write_data(compiled_orp, write_xlsx,
+                                        file.path("data-export", "compiled-orp.xlsx"))),
   tar_file(compiled_orp_csv_subset, write_data(compiled_orp |>
                                                  drop_na(orp_kod) |>
                                                  select(orp_nazev, starts_with("Index"),
@@ -59,8 +61,11 @@ list(
                                                write_csv,
                                         file.path("data-export", "compiled-orp-subset.csv"))),
   tar_file(compiled_raw_csv, write_data(compiled_raw, write_csv, file.path("data-export", "compiled-orig.csv"))),
-  tar_file(compiled_raw_arrow, write_data(compiled_raw %>% mutate(across(where(is.character), as_factor)),
-                                          arrow::write_feather,
-                                          file.path("data-export", "compiled-orig.arrow"),
-                                          compression = "lz4"))
+  tar_file(compiled_raw_excel, write_data(compiled_raw, write_xlsx, file.path("data-export", "compiled-orig.xlsx"))),
+  tar_file(compiled_raw_parquet, write_data(compiled_raw, arrow::write_parquet,
+                                            file.path("data-export", "compiled-orig.parquet"))),
+  tar_file(compiled_obce_parquet, write_data(compiled_obce, arrow::write_parquet,
+                                            file.path("data-export", "compiled-obce.parquet"))),
+  tar_file(compiled_obce_excel, write_data(compiled_obce, write_xlsx, file.path("data-export", "compiled-obce.xlsx"))),
+  tar_file(compiled_obce_csv, write_data(compiled_obce, write_csv, file.path("data-export", "compiled-obce.csv")))
 )
