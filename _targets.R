@@ -47,9 +47,9 @@ list(
   tar_download(paq_indexy_xlsx, c_url_paq_indexy, c_file_paq_indexy),
   tar_file_read(paq_indexy, paq_indexy_xlsx, read = read_paq_xlsx(!!.x)),
   tar_target(obyv_orp, get_obyv_orp()),
-  tar_file(compiled_orp_csv, write_data(compiled_orp |> drop_na(orp_kod), write_csv,
   tar_target(compiled_orp, compile_orp(compiled_raw, obyv_orp, paq_indexy),
              pattern = map(compiled_raw)),
+  tar_file(compiled_orp_csv, write_data(compiled_orp, write_csv,
                                         file.path("data-export", "compiled-orp.csv"))),
   tar_file(compiled_orp_csv_subset, write_data(compiled_orp |>
                                                  drop_na(orp_kod) |>
