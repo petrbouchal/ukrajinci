@@ -16,7 +16,7 @@ list_mv_excel <- function(url = "https://www.mvcr.cz/clanek/statistika-v-souvisl
     rename(path = value) |>
     mutate(url = paste0("https://www.mvcr.cz/", path),
            filename = basename(path) |> str_remove("\\.aspx$") |>
-             str_replace(paste("\\- ", ext_regex,"$"), excel_ext)) |>
+             str_replace(paste0("\\-", ext_regex,"$"), paste0(".", excel_ext))) |>
     distinct()
 
   return(xlsxurls)
