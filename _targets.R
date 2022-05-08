@@ -21,20 +21,17 @@ for (file in list.files("R", full.names = TRUE)) source(file)
 
 list(
   tar_target(mv_urls, c_mv_urls),
-  tar_target(name = xlsx_metadata,
-             command = list_mv_xlsx(url = mv_urls),
+  tar_target(name = excel_metadata,
+             command = list_mv_excel(url = mv_urls),
              pattern = map(mv_urls), iteration = "vector",
              cue = tar_cue_age(
-               name = xlsx_metadata,
-               age = as.difftime(c_mv_timeout_hrs, units = "hours"),,
-             ))
-  ,
-  tar_target(xlsx_urls, xlsx_metadata$url),
-  tar_target(xlsx_paths, xlsx_metadata$filename),
-  tar_file(xlsx_files,
-           curl::curl_download(xlsx_urls, file.path(c_xlsx_dir, xlsx_paths)),
-           pattern = map(xlsx_urls, xlsx_paths)),
-  tar_target(dt_all, load_one_xlsx(xlsx_files), pattern = map(xlsx_files)),
+               name = excel_metadata,
+               age = as.difftime(c_mv_timeout_hrs, units = "hours")
+             )),
+  load_files_l,
+  tar_target(excel_urls, excel_metadata$url),
+  tar_target(excel_paths, excel_metadata$filename),
+
   tar_target(kody_kraje, get_cis_kraje()),
   tar_target(kody_kraje_nuts, get_cis_nuts()),
   tar_target(kody_mc, get_cis_mc()),

@@ -5,7 +5,7 @@ library(purrr)
 library(readxl)
 library(lubridate)
 
-list_mv_xlsx <- function(url = "https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx",
+list_mv_excel <- function(url = "https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx",
                          ext_regex = "xl[st]", excel_ext = "xls") {
   hh <- rvest::read_html(url)
   xlsxurls <- hh |>
@@ -22,7 +22,7 @@ list_mv_xlsx <- function(url = "https://www.mvcr.cz/clanek/statistika-v-souvislo
   return(xlsxurls)
 }
 
-load_one_xlsx <- function(path) {
+load_one_excel <- function(path) {
   # print(path)
   dt <- readxl::read_excel(path)
   if(!"kod_obce" %in% names(dt)) dt$kod_obce <- NA
