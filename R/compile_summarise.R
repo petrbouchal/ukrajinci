@@ -1,7 +1,7 @@
 compile_orp <- function(data, obyv_orp, paq_indexy) {
   # print(unique(data))
   data |>
-    group_by(datum, orp_kod, orp_nazev, day_no) |>
+    group_by(datum, orp_kod, orp_nazev) |>
     summarise(across(where(is.numeric), sum, na.rm = TRUE), .groups = "drop") |>
     left_join(obyv_orp, by = "orp_kod") |>
     mutate(all_0_18 = x_do_3 + x_do_6 + x_do_15 + x_do_18 +
@@ -15,7 +15,7 @@ compile_orp <- function(data, obyv_orp, paq_indexy) {
 
 compile_obce <- function(data, obyv_obce) {
   data |>
-    group_by(datum, obec_kod, obec, day_no) |>
+    group_by(datum, obec_kod, obec) |>
     summarise(across(where(is.numeric), sum, na.rm = TRUE), .groups = "drop") |>
     left_join(obyv_obce, by = "obec_kod") |>
     mutate(all_0_18 = x_do_3 + x_do_6 + x_do_15 + x_do_18 +

@@ -1,14 +1,14 @@
 library(dplyr)
 
-compile_raw <- function(all, kody_kraje, kody_kraje_nuts, kody_mc, kody_orp, kody_okresy, kody_okresy_nuts) {
+compile_raw <- function(all, kody_kraje, kody_kraje_nuts, kody_mc, kody_orp,
+                        kody_okresy, kody_okresy_nuts) {
   dt_joined <- all |>
     left_join(kody_kraje, by = "obec_kod") |>
     left_join(kody_kraje_nuts, by = "obec_kod") |>
     left_join(kody_mc, by = c("obec_mc", "obec_kod")) |>
     left_join(kody_orp, by = "obec_kod") |>
     left_join(kody_okresy, by = "obec_kod") |>
-    left_join(kody_okresy_nuts, by = "okres_kod") |>
-    mutate(day_no = (datum - min(datum)) |> as.numeric("days"))
+    left_join(kody_okresy_nuts, by = "okres_kod")
 
   var_stems <- c("_do_3", "_do_6", "_do_15", "_do_18", "_do_65", "_sen")
   names_z <- c(paste0("z", var_stems))

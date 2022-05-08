@@ -180,6 +180,7 @@ legend_keys = legend_keys_all
 
 ```{ojs}
 day_nos = [...new Set(dt.map((e) => e.day_no))]
+day_nos_array = Array.from(day_nos)
 ```
 
 ```{ojs}

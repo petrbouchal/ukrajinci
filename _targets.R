@@ -77,7 +77,9 @@ list(
                                                  drop_na(orp_kod) |>
                                                  select(orp_nazev, starts_with("Index"),
                                                         celkem, podil, podil_0_18,
-                                                        datum, day_no),
+                                                        datum) |>
+                                                 mutate(day_no = (datum - min(datum)) |> as.numeric("days")) |>
+                                                 arrange(day_no),
                                                write_csv,
                                         file.path("data-export", "compiled-orp-subset.csv"))),
   tar_file(compiled_raw_csv, write_data(compiled_raw, write_csv, file.path("data-export", "compiled-orig.csv"))),
