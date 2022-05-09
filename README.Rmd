@@ -20,7 +20,7 @@ Tento repozitář obsahuje kód na kompilaci a analýzu dat o lidech, kteří se
 
 ## Zdroje dat
 
-MV ČR [publikuje denní data](https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx) pro upřesnění) s počty těchto lidí podle pohlaví, obce pobytu a věkových skupin. Jsou to vždy kumulativní data a zřejmě dochází i k jejich upřesňování, tj. změny mezi soubory z jednotlivých dnů mohou být buď následkem reálné změny, nebo zpětného upřesnění.
+MV ČR [publikuje denní data](https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx) s počty těchto lidí podle pohlaví, obce pobytu a věkových skupin. Jsou to vždy kumulativní data a zřejmě dochází i k jejich upřesňování, tj. změny mezi soubory z jednotlivých dnů mohou být buď následkem reálné změny, nebo zpětného upřesnění.
 
 ## Omezení dat
 
@@ -30,7 +30,7 @@ V datech jsem zajím objevil tyto problémy:
 
 - v datech do 16. 3. nejsou kódy obcí, čili pro tyto dny je to skoro nepoužitelné pro územní pohled
 - XLSX link z 27. 3. vede na soubor z 28. 3. a XLSX soubor z 27. 3. na serveru ani není (XLS soubor tam je a správně odkázaný, ale XLSX je preferovaný, otevřenější formát)
-- 30. března je místo XLS soubor XLT (data v něm sice jsou, ale není důvod to poskytovat v tomto formátu)
+- pro 30. března je místo XLS soubor XLT (data v něm sice jsou, ale není důvod to poskytovat v tomto formátu)
 
 První problém snadno a přesně vyřešit nelze, druhý a třetí skript řeší. 
 
