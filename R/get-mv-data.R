@@ -30,13 +30,13 @@ load_one_excel <- function(path) {
   dt |>
     mutate(file = path,
            kod_obce = as.character(kod_obce),
-           datum = lubridate::parse_date_time(file, "d-m-y") |> as.Date()) |>
+           datum = lubridate::parse_date_time(basename(file), "d-m-y") |> as.Date()) |>
     rename(obec_kod = kod_obce)
 }
 
 download_and_load_one_excel <- function(url, path, fileext = ".xls") {
 
-  tf <- tempfile(pattern = basename(path), fileext = fileext)
+  tf <- file.path(tempdir(), basename(path))
   curl::curl_download(url, tf)
   load_one_excel(tf)
 
