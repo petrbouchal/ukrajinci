@@ -6,6 +6,7 @@ tar_option_set(
                "readxl", "lubridate", "readr", "arrow", "forcats", "writexl")
   )
 
+on_gha <- Sys.getenv("GITHUB_ACTIONS") == "true"
 
 cnf <- config::get(config = "default")
 names(cnf) <- paste0("c_", names(cnf))
@@ -19,7 +20,7 @@ options(clustermq.scheduler = "multicore",
 
 for (file in list.files("R", full.names = TRUE)) source(file)
 
-if (Sys.getenv("GITHUB_ACTIONS") == TRUE) c_mv_timeout_hrs <- 0
+if (on_gha) c_mv_timeout_hrs <- 0
 
 load_files_local_l <- list(
   tar_file(excel_files,
@@ -33,7 +34,7 @@ load_files_gha_l <- list(
              pattern = map(excel_urls, excel_paths))
 )
 
-if (Sys.getenv("GITHUB_ACTIONS") == TRUE) {
+if (on_gha) {
   load_files_l <- load_files_gha_l
 }  else {
   load_files_l <- load_files_local_l
