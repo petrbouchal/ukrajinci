@@ -39,8 +39,13 @@ jobs:
       RENV_PATHS_ROOT: ~/.local/share/renv
     steps:
       - uses: actions/checkout@v2
+
+      - name: Print env var
+        run: echo "$GITHUB ACTION $GITHUB_ACTIONS"
+
       - uses: r-lib/actions/setup-r@master
       - uses: r-lib/actions/setup-pandoc@master
+
 
       - name: Install Mac system dependencies
         if: runner.os == 'macOS'
