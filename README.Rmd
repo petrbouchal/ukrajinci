@@ -22,6 +22,8 @@ Tento repozitář obsahuje kód na kompilaci a analýzu dat o lidech, kteří se
 
 MV ČR [publikuje denní data](https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx) s počty těchto lidí podle pohlaví, obce pobytu a věkových skupin. Jsou to vždy kumulativní data a zřejmě dochází i k jejich upřesňování, tj. změny mezi soubory z jednotlivých dnů mohou být buď následkem reálné změny, nebo zpětného upřesnění.
 
+Na tato data se pak napojují číselníky území ČSÚ a indexová data PAQ o školách na úrovni ORP (viz níže).
+
 ## Omezení dat
 
 Viz především text na webu MV.

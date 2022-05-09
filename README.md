@@ -21,6 +21,9 @@ to vždy kumulativní data a zřejmě dochází i k jejich upřesňování, tj.
 změny mezi soubory z jednotlivých dnů mohou být buď následkem reálné
 změny, nebo zpětného upřesnění.
 
+Na tato data se pak napojují číselníky území ČSÚ a indexová data PAQ o
+školách na úrovni ORP (viz níže).
+
 ## Omezení dat
 
 Viz především text na webu MV.
