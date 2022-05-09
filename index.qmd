@@ -95,6 +95,8 @@ barplot2 = Plot.plot({
 
 ## Table
 
+Tabulka
+
 ```{ojs}
 viewof x = Inputs.table(dt.filter((e) => e.day_no === dtm && e.orp_nazev === orp_hl))
 ```
