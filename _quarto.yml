@@ -2,4 +2,3 @@ project:
   output-dir: docs
   type: website
   toc: true
-  pre-render: ./run.R
