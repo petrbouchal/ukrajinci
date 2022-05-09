@@ -30,7 +30,7 @@ load_files_local_l <- list(
 )
 
 load_files_gha_l <- list(
-  tar_target(dt_all, download_and_load_one_excel(excel_files),
+  tar_target(dt_all, download_and_load_one_excel(excel_urls, excel_paths),
              pattern = map(excel_urls, excel_paths))
 )
 
