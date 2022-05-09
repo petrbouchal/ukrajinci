@@ -41,11 +41,15 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Print env var
-        run: echo "$GITHUB ACTION $GITHUB_ACTIONS"
+        run: echo "$GITHUB_ACTION $GITHUB_ACTIONS"
 
       - uses: r-lib/actions/setup-r@master
       - uses: r-lib/actions/setup-pandoc@master
 
+      - name: Print env var in R
+        run: |
+          Rscript -e "print(Sys.getenv('GITHUB_ACTIONS'))"
+          Rscript -e "print(Sys.getenv('GITHUB_ACTION'))"
 
       - name: Install Mac system dependencies
         if: runner.os == 'macOS'
