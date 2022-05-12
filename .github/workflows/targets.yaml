@@ -29,8 +29,8 @@ on:
       - main
       - master
     workflow_dispatch:
-    schedule:
-    - cron:  '30 15 * * *'
+  schedule:
+  - cron:  '30 15 * * *'
 
 name: targets
 
