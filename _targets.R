@@ -4,7 +4,7 @@ library(tarchetypes)
 tar_option_set(
   packages = c("tibble", "dplyr", "czso", "tidyr", "rvest", "stringr", "purrr",
                "readxl", "lubridate", "readr", "arrow", "forcats", "writexl")
-  )
+)
 
 on_gha <- Sys.getenv("GITHUB_ACTIONS") == "true"
 
@@ -40,7 +40,7 @@ if (on_gha) {
   load_files_l <- load_files_local_l
 }
 
-list(
+tg_l <- list(
   tar_target(mv_urls, c_mv_urls),
   tar_target(name = excel_metadata,
              command = list_mv_excel(url = mv_urls),
@@ -69,11 +69,10 @@ list(
   tar_file_read(paq_indexy, paq_indexy_xlsx, read = read_paq_xlsx(!!.x)),
   tar_target(obyv_orp, get_obyv_orp()),
   tar_target(compiled_orp, compile_orp(compiled_raw, obyv_orp, paq_indexy),
-             pattern = map(compiled_raw)),
-  tar_file(compiled_orp_csv, write_data(compiled_orp, write_csv,
-                                        file.path("data-export", "compiled-orp.csv"))),
-  tar_file(compiled_orp_excel, write_data(compiled_orp, write_xlsx,
-                                        file.path("data-export", "compiled-orp.xlsx"))),
+             pattern = map(compiled_raw))
+)
+
+write_l_gha <- list(
   tar_file(compiled_orp_csv_subset, write_data(compiled_orp |>
                                                  drop_na(orp_kod) |>
                                                  select(orp_nazev, starts_with("Index"),
@@ -82,13 +81,23 @@ list(
                                                  mutate(day_no = (datum - min(datum)) |> as.numeric("days")) |>
                                                  arrange(day_no),
                                                write_csv,
-                                        file.path("data-export", "compiled-orp-subset.csv"))),
+                                               file.path("data-export", "compiled-orp-subset.csv"))),
   tar_file(compiled_raw_csv, write_data(compiled_raw, write_csv, file.path("data-export", "compiled-orig.csv"))),
-  tar_file(compiled_raw_excel, write_data(compiled_raw, write_xlsx, file.path("data-export", "compiled-orig.xlsx"))),
-  tar_file(compiled_raw_parquet, write_data(compiled_raw, arrow::write_parquet,
-                                            file.path("data-export", "compiled-orig.parquet"))),
-  tar_file(compiled_obce_parquet, write_data(compiled_obce, arrow::write_parquet,
-                                            file.path("data-export", "compiled-obce.parquet"))),
-  tar_file(compiled_obce_excel, write_data(compiled_obce, write_xlsx, file.path("data-export", "compiled-obce.xlsx"))),
   tar_file(compiled_obce_csv, write_data(compiled_obce, write_csv, file.path("data-export", "compiled-obce.csv")))
 )
+write_l_local <- list(write_l_gha,
+                      tar_file(compiled_orp_csv, write_data(compiled_orp, write_csv,
+                                                            file.path("data-export", "compiled-orp.csv"))),
+                      tar_file(compiled_orp_excel, write_data(compiled_orp, write_xlsx,
+                                                              file.path("data-export", "compiled-orp.xlsx"))),
+                      tar_file(compiled_raw_excel, write_data(compiled_raw, write_xlsx, file.path("data-export", "compiled-orig.xlsx"))),
+                      tar_file(compiled_raw_parquet, write_data(compiled_raw, arrow::write_parquet,
+                                                                file.path("data-export", "compiled-orig.parquet"))),
+                      tar_file(compiled_obce_parquet, write_data(compiled_obce, arrow::write_parquet,
+                                                                 file.path("data-export", "compiled-obce.parquet"))),
+                      tar_file(compiled_obce_excel, write_data(compiled_obce, write_xlsx, file.path("data-export", "compiled-obce.xlsx")))
+)
+
+write_l <- if(on_gha) write_l_gha else write_l_local
+
+list(tg_l, write_l)

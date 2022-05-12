@@ -50,6 +50,8 @@ Skript běží automaticky každý den v 15:30.
 
 Poslední data lze najít [zde v různých formátech a úrovních granularity](https://github.com/petrbouchal/ukrajinci/tree/targets-runs/data-export).
 
+Na Github Actions se generují pouze CSV, binární formáty (Excel a Parquet) se generují pouze při lokálním spuštění, aby repozitář na Githubu hned nepřerostl únosnou velikost.
+
 ### Aplikace
 
 S daty na úrovni ORP pak pracuje [ukázková prezentace](https://petrbouchal.xyz/ukrajinci/), která též využívá [data](https://www.mapavzdelavani.cz/downloads/paq_dataset_indexy.xlsx) ze [vzdělávací mapy PAQ](https://mapavzdelavani.cz/).
