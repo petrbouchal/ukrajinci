@@ -65,6 +65,8 @@ targets::tar_make() # spustí celou pipeline
 quarto::quarto_render() # vygeneruje webovou stránku/aplikaci do adresáře "docs"
 ```
 
+Quarto je při použití mimo RStudio separátní program, třeba [nainstalovat](https://quarto.org/docs/get-started/).
+
 Systém funguje tak, že při příštím spuštění pouze donačte nová data, žádné stahování a počítání se zbytečně neopakuje.
 
 ## Technické detaily
