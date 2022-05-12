@@ -15,7 +15,8 @@ compile_orp <- function(data, obyv_orp, paq_indexy) {
 
 compile_obce <- function(data, obyv_obce) {
   data |>
-    group_by(datum, obec_kod, obec) |>
+    group_by(datum, obec_kod, obec, orp_kod, orp_nazev, okres_kod, okres,
+             okres_kod_nuts, kraj_kod, kraj_nazev, nuts3_kod, nuts3_nazev) |>
     summarise(across(where(is.numeric), sum, na.rm = TRUE), .groups = "drop") |>
     left_join(obyv_obce, by = "obec_kod") |>
     mutate(all_0_18 = x_do_3 + x_do_6 + x_do_15 + x_do_18 +
