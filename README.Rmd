@@ -1,0 +1,91 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# ukrajinci
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Tento repozitář obsahuje kód na kompilaci a analýzu dat o lidech, kteří se v Česku zaregistrovali po udělení právní ochrany (moje nepřesná terminologie, viz [MV ČR](https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx) pro upřesnění).
+
+## Zdroje dat
+
+MV ČR [publikuje denní data](https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx) s počty těchto lidí podle pohlaví, obce pobytu a věkových skupin. Jsou to vždy kumulativní data a zřejmě dochází i k jejich upřesňování, tj. změny mezi soubory z jednotlivých dnů mohou být buď následkem reálné změny, nebo zpětného upřesnění.
+
+Na tato data se pak napojují číselníky území ČSÚ a indexová data PAQ o školách na úrovni ORP (viz níže).
+
+## Omezení dat
+
+Viz především text na webu MV.
+
+V datech jsem zajím objevil tyto problémy:
+
+- v datech do 16. 3. nejsou kódy obcí, čili pro tyto dny je to skoro nepoužitelné pro územní pohled
+- XLSX link z 27. 3. vede na soubor z 28. 3. a XLSX soubor z 27. 3. na serveru ani není (XLS soubor tam je a správně odkázaný, ale XLSX je preferovaný, otevřenější formát)
+- pro 30. března je místo XLS soubor XLT (data v něm sice jsou, ale není důvod to poskytovat v tomto formátu)
+
+První problém snadno a přesně vyřešit nelze, druhý a třetí skript řeší. 
+
+Kromě toho je v datech velké množství lidí bez adresy a nějaké množství lidí bez určeného pohlaví.
+
+## Postup
+
+Tento kód tato data stahuje, kompiluje a čistí, též na ně navazuje číselníky územních celků pro snadné napojení na další data.
+
+Skript běží automaticky každý den v 15:30.
+
+## Výstupy
+
+### Data
+
+Poslední data lze najít [zde v různých formátech a úrovních granularity](https://github.com/petrbouchal/ukrajinci/tree/targets-runs/data-export).
+
+Na Github Actions se generují pouze CSV, binární formáty (Excel a Parquet) se generují pouze při lokálním spuštění, aby repozitář na Githubu hned nepřerostl únosnou velikost.
+
+### Aplikace
+
+S daty na úrovni ORP pak pracuje [ukázková prezentace](https://petrbouchal.xyz/ukrajinci/), která též využívá [data](https://www.mapavzdelavani.cz/downloads/paq_dataset_indexy.xlsx) ze [vzdělávací mapy PAQ](https://mapavzdelavani.cz/).
+
+## Jak to pustit
+
+Vše v R:
+
+```r
+install.packages("renv") # nemělo by být třeba
+renv::restore() # nainstaluje potřebné balíky
+targets::tar_make() # spustí celou pipeline
+quarto::quarto_render() # vygeneruje webovou stránku/aplikaci do adresáře "docs"
+```
+
+Quarto je při použití mimo RStudio separátní program, třeba [nainstalovat](https://quarto.org/docs/get-started/).
+
+Systém funguje tak, že při příštím spuštění pouze donačte nová data, žádné stahování a počítání se zbytečně neopakuje.
+
+## Technické detaily
+
+- o správu celé pipeline se stará systém `{targets}`
+- web/aplikaci generuje Quarto s interaktivní grafikou Observable Plot
+- zachycení použitých balíků dělá systém `{renv}`
+
+Na Githubu běží automaticky každý den přes Github Actions. Lokálně třeba pustit ručně, ale logika s neopakováním zbytečných stahování a výpočtů platí. Při použití mimo Github Actions systém navíc skladuje původní excelové soubory od MV.
+
+### SessionInfo
+
+<details>
+
+```{r}
+source("_targets_packages.R")
+sessionInfo()
+```
+
+</details>

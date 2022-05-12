@@ -1,0 +1,149 @@
+---
+title: "analysis"
+format: html
+standalone: false
+editor: visual
+execute: 
+  echo: false
+---
+
+```{r}
+# https://observablehq.com/@sfu-iat355/geovis-in-vega-lite
+```
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document.
+To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code.
+You can embed code like this:
+
+```{r}
+library(readr)
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+orp_day <- read_rds("orp_day.rds")
+ojs_define(orp_day = orp_day)
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+```{ojs}
+orp_o = FileAttachment("orp_day.csv").csv({typed: true})
+```
+
+```{ojs}
+kraj_o = FileAttachment("kraj_day.csv").csv({typed: true})
+```
+
+```{ojs}
+import {vl} from "@vega/vega-lite-api-v5"
+VegaLite = require('vega-embed@6')
+```
+
+```{ojs}
+gdt0 = FileAttachment("orp_day_g_0.geojson").json()
+```
+
+```{ojs}
+viewof dy = Inputs.range([0, 28], {step: 1, value: 0})
+```
+
+```{ojs}
+barplot2 = Plot.plot({
+  height: 400,
+  marks: [
+    Plot.barX(
+      kraj_o.filter((e) => e.day_no === dy),
+      {
+        y: "nazev",
+        x: "celkem",
+        fill: "blue",
+        sort: { y: "x", reverse: true }
+      }
+    ),
+    Plot.text(
+      kraj_o.filter((e) => e.day_no === dy),
+      {
+        y: "nazev",
+        x: "celkem",
+        text: (d) => `${d3.format(".1f")(d.ratio * 100)}`,
+        fill: "white",
+        align: 0,
+        dx: -15,
+        sort: { y: "x", reverse: true }
+      }
+    )
+  ],
+  x: { grid: true, tickSize: 0 },
+  y: { tickSize: 0, label: null }
+})
+```
+
+```{ojs}
+barplot3 = Plot.plot({
+  marks: [Plot.line(
+      kraj_o,
+      {
+        y: "celkem",
+        x: "datum",
+        z: "nazev",
+        stroke: "ms",
+        strokeWidth: 3,
+        title: (d) =>
+          `${d.ms} ${d.year}: ${Math.round(d.progress * 100, 3) + " %"}`
+      }
+    )
+  ],
+  y: { grid: true, tickSize: 0 },
+  color: { legend: true, type: "categorical" },
+  x: {
+    tickSize: 0,
+    label: null,
+    tickFormat: d3.format("1"),
+    grid: true,
+    type: "point"
+  },
+  tooltip: { fill: "blue" },
+  style: { width: "900px" }
+})
+```
+
+```{ojs}
+dy
+```
+
+```{ojs}
+mapa = VegaLite({
+  width: 600,
+  height: 400,
+  layer: [{
+       data: {
+         values: gdt0,
+         format: {
+           type: "json",
+           property: "features",
+         }
+       },
+       projection: {
+         type: "mercator"
+       },
+       mark: "geoshape",
+       encoding: {
+         color: { 
+           field: "properties.celkem",
+           title: "Celkem",
+           type: "quantitative"
+         }
+       }     
+     }
+  jkhfsdkjhsdjk ]
+})
+```

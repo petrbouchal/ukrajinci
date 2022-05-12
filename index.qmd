@@ -1,0 +1,223 @@
+---
+title: "Ukrajinské děti v ORP"
+format: 
+  html:
+    echo: false
+    theme: lux
+    page-layout: full
+---
+
+```{ojs}
+//| panel: sidebar
+viewof dtm = Inputs.range([day_nos[1], day_nos[day_nos.length - 1]], {
+  step: 1,
+  label: null,
+  value: day_nos[day_nos.length - 1]
+})
+
+viewof vrb = Inputs.select(vrbl, {
+  label: "Index PAQ",
+  format: (x) => x.lbl,
+  value: {
+    name: "Index_destabilizujici_chudoby",
+    lbl: "Destabilizující chudoba",
+    legend: "degree"
+  }
+})
+
+viewof orp_hl = Inputs.select([...new Set(dt.map((e) => e.orp_nazev).sort())], {label : "Zvýraznit ORP", value: "Praha"})
+```
+
+::: panel-tabset
+
+## Plot
+
+```{ojs}
+md`### ${dtm_text}`
+md`Velikost = počet uprchlíků v ORP`
+```
+
+```{ojs} 
+barplot2 = Plot.plot({
+  height: 600,
+  width: 1000,
+  marks: [
+    Plot.dot(
+      dt.filter((e) => e.day_no === dtm),
+      {
+        y: "podil_0_18",
+        x: "podil",
+        opacity: 0.5,
+        r: 'celkem',
+        stroke: "white",
+        fill: vrb.name,
+        title: (d) => `${d.orp_nazev}`
+      }
+    ),
+    Plot.dot(
+      dt.filter((e) => e.day_no === dtm && e.orp_nazev === orp_hl),
+      {
+        y: "podil_0_18",
+        opacity: 1,
+        x: "podil",
+        r: 'celkem',
+        stroke: "blue",
+        fill: vrb.name,
+        title: (d) => `${d.orp_nazev}`
+      }
+    )
+  ],
+  r: {range: [0, 80], domain: [0, 80000]},
+  x: {
+    tickFormat: d3.format(".0%"),
+    grid: true,
+    tickSize: 0,
+    label: "Uprchlíci jako % obyvatel",
+    domain: [0, 0.1]
+  },
+  color: {
+    legend: true,
+    type: "ordinal",
+    range: ["darkgreen", "green", "grey", "red", "darkred"],
+    domain: legend_keys
+  },
+  y: {
+    tickFormat: d3.format(".0%"),
+    tickSize: 0,
+    ticks: 10,
+    grid: true,
+    label: "Dětí (do 18 let) jako % uprchlíků",
+    domain: [0.2, 0.6]
+  },
+  tooltip: { fill: "darkblue", stroke: "darkblue" }
+})
+```
+
+## Table
+
+Tabulka
+
+```{ojs}
+viewof x = Inputs.table(dt.filter((e) => e.day_no === dtm && e.orp_nazev === orp_hl))
+```
+
+
+```{ojs}
+dtm_text = datum.toLocaleString("cs", {
+  "month": "long",
+  "day": "numeric",
+  "year": "numeric"})
+```
+
+:::
+
+```{ojs}
+dt = FileAttachment("data-export/compiled-orp-subset.csv").csv({ typed: true })
+```
+
+```{ojs}
+import { Plot } from "@mkfreeman/plot-tooltip"
+```
+
+```{ojs}
+legend_keys_all = [
+  { key: "velmi nízké", legend: "degree" },
+  { key: "nízké", legend: "degree" },
+  { key: "střední", legend: "degree" },
+  { key: "vysoké", legend: "degree" },
+  { key: "velmi vysoké", legend: "degree" },
+  {
+    key: "Výrazně méně vzdělávacích problémů než očekáváno",
+    legend: "expectations"
+  },
+  {
+    key: "Méně vzdělávacích problémů než očekáváno",
+    legend: "expectations"
+  },
+
+  {
+    key: "Vzdělávací problémy na míře očekávání",
+    legend: "expectations"
+  },
+
+  {
+    key: "Více vzdělávacích problémů než očekáváno",
+    legend: "expectations"
+  },
+
+  {
+    key: "Výrazně více vzdělávacích problémů než očekáváno",
+    legend: "expectations"
+  },
+
+  {
+    key: "68 - 72,5 tisíc Kč",
+    legend: "funding"
+  },
+  {
+    key: "64 - 68 tisíc Kč",
+    legend: "funding"
+  },
+  {
+    key: "60 - 64 tisíc Kč",
+    legend: "funding"
+  },
+  {
+    key: "52 - 56 tisíc Kč",
+    legend: "funding"
+  },
+  {
+    key: "56 - 60 tisíc Kč",
+    legend: "funding"
+  }
+]
+```
+
+
+```{ojs}
+legend_keys = legend_keys_all
+  .filter((e) => e.legend === vrb.legend)
+  .map((e) => e.key)
+```
+
+```{ojs}
+day_nos = [...new Set(dt.map((e) => e.day_no))]
+day_nos_array = Array.from(day_nos)
+```
+
+```{ojs}
+datum = dt
+  .filter((e) => (e.day_no === dtm) & (e.orp_nazev === "Praha"))
+  .map((a) => a.datum)
+```
+
+
+```{ojs}
+vrbl = [
+  {
+    name: "Index_vzdelavacich_problemu",
+    lbl: "Vzdělávací problémy",
+    legend: "degree"
+  },
+  {
+    name: "Index_destabilizujici_chudoby",
+    lbl: "Destabilizující chudoba",
+    legend: "degree"
+  },
+  {
+    name: "Index_soc_znevyhodneni",
+    lbl: "Sociální znevýhodnění",
+    legend: "degree"
+  },
+  {
+    name: "Index_zaostavani",
+    lbl: "Zoastávání",
+    legend: "expectations"
+  },
+  {
+    name: "Index_financovani",
+    lbl: "Financování",
+    legend: "funding"
+  }
+]
+```
