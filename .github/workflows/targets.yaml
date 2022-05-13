@@ -30,7 +30,7 @@ on:
       - master
     workflow_dispatch:
   schedule:
-  - cron:  '30 15 * * *'
+  - cron:  '30 13 * * *'
 
 name: targets
 
