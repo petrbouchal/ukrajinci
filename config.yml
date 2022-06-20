@@ -1,7 +1,8 @@
 default:
   mv_urls: ["https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx",
             "https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx?q=Y2hudW09Mg%3d%3d",
-            "https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx?q=Y2hudW09Mw%3d%3d"]
+            "https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx?q=Y2hudW09Mw%3d%3d",
+            "https://www.mvcr.cz/clanek/statistika-v-souvislosti-s-valkou-na-ukrajine-archiv.aspx?q=Y2hudW09NA%3d%3d"]
   mv_timeout_hrs: 12
   excel_dir: "xlsx_new"
   url_paq_indexy: "https://www.mapavzdelavani.cz/downloads/paq_dataset_indexy.xlsx"
