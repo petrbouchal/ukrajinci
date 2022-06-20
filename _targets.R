@@ -81,13 +81,13 @@ write_l_gha <- list(
                                                  mutate(day_no = (datum - min(datum)) |> as.numeric("days")) |>
                                                  arrange(day_no),
                                                write_csv,
-                                               file.path("data-export", "compiled-orp-subset.csv"))),
-  tar_file(compiled_raw_csv, write_data(compiled_raw, write_csv, file.path("data-export", "compiled-orig.csv"))),
-  tar_file(compiled_obce_csv, write_data(compiled_obce, write_csv, file.path("data-export", "compiled-obce.csv")))
+                                               file.path("data-export", "compiled-orp-subset.csv")))
 )
 write_l_local <- list(write_l_gha,
                       tar_file(compiled_orp_csv, write_data(compiled_orp, write_csv,
                                                             file.path("data-export", "compiled-orp.csv"))),
+  tar_file(compiled_raw_csv, write_data(compiled_raw, write_csv, file.path("data-export", "compiled-orig.csv"))),
+  tar_file(compiled_obce_csv, write_data(compiled_obce, write_csv, file.path("data-export", "compiled-obce.csv"))),
                       tar_file(compiled_orp_excel, write_data(compiled_orp, write_xlsx,
                                                               file.path("data-export", "compiled-orp.xlsx"))),
                       tar_file(compiled_raw_excel, write_data(compiled_raw, write_xlsx, file.path("data-export", "compiled-orig.xlsx"))),
