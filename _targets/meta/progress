@@ -1,7 +1,8 @@
 name|type|parent|branches|progress
 mv_urls|stem|mv_urls|0|skipped
 obyv_orp|stem|obyv_orp|0|skipped
-paq_indexy_xlsx_url|stem|paq_indexy_xlsx_url|0|skipped
+paq_indexy_xlsx_url|stem|paq_indexy_xlsx_url|0|started
+paq_indexy_xlsx_url|stem|paq_indexy_xlsx_url|0|built
 kody_kraje_nuts|stem|kody_kraje_nuts|0|skipped
 kody_okresy_nuts|stem|kody_okresy_nuts|0|skipped
 kody_orp|stem|kody_orp|0|skipped
@@ -19,7 +20,8 @@ excel_metadata_b86e4c0a|branch|excel_metadata|0|built
 excel_metadata_2782f0fb|branch|excel_metadata|0|started
 excel_metadata_2782f0fb|branch|excel_metadata|0|built
 excel_metadata|pattern|excel_metadata|4|built
-paq_indexy_xlsx|stem|paq_indexy_xlsx|0|skipped
+paq_indexy_xlsx|stem|paq_indexy_xlsx|0|started
+paq_indexy_xlsx|stem|paq_indexy_xlsx|0|built
 excel_urls|stem|excel_urls|0|skipped
 excel_paths|stem|excel_paths|0|skipped
 paq_indexy_file|stem|paq_indexy_file|0|skipped
