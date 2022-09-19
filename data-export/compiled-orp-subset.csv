@@ -1,4 +1,622 @@
 orp_nazev,Index_vzdelavacich_problemu,Index_destabilizujici_chudoby,Index_soc_znevyhodneni,Index_zaostavani,Index_financovani,celkem,podil,podil_0_18,datum,day_no
+Praha,nízké,střední,velmi nízké,Vzdělávací problémy na míře očekávání,NA,94618,0.07087044710295382,0.32609017311716587,2022-09-19,NA
+Benešov,velmi nízké,nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2350,0.038314176245210725,0.3659574468085106,2022-09-19,NA
+Beroun,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2205,0.03336510962821735,0.3396825396825397,2022-09-19,NA
+Brandýs nad Labem-Stará Boleslav,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,5627,0.0487380255339789,0.3289497067709259,2022-09-19,NA
+Čáslav,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1015,0.03924677132472353,0.3192118226600985,2022-09-19,NA
+Černošice,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,6498,0.04266999376169682,0.3802708525700215,2022-09-19,NA
+Český Brod,vysoké,vysoké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,817,0.03738788211605345,0.34516523867809057,2022-09-19,NA
+Dobříš,vysoké,nízké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,606,0.02604995056527533,0.36633663366336633,2022-09-19,NA
+Hořovice,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1489,0.04911597836126138,0.31967763599731364,2022-09-19,NA
+Kladno,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3536,0.028049022329750525,0.3563348416289593,2022-09-19,NA
+Kolín,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3167,0.03752191839249325,0.3438585412061888,2022-09-19,NA
+Kralupy nad Vltavou,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1573,0.047776697849593,0.3477431659249841,2022-09-19,NA
+Kutná Hora,vysoké,vysoké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2060,0.040834126228988264,0.36067961165048545,2022-09-19,NA
+Lysá nad Labem,střední,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2451,0.09029287161539878,0.3623011015911873,2022-09-19,NA
+Mělník,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1717,0.03832760391088888,0.35993011065812464,2022-09-19,NA
+Mladá Boleslav,střední,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,8753,0.07745674970134064,0.41220153090369016,2022-09-19,NA
+Mnichovo Hradiště,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,698,0.038698231413206184,0.33810888252148996,2022-09-19,NA
+Neratovice,velmi vysoké,vysoké,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,991,0.030714396404772974,0.3481331987891019,2022-09-19,NA
+Nymburk,střední,střední,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1436,0.03546116804543771,0.3426183844011142,2022-09-19,NA
+Poděbrady,velmi nízké,střední,střední,Výrazně méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1068,0.033824228028503565,0.3586142322097378,2022-09-19,NA
+Příbram,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2847,0.0406743338809915,0.3263083948015455,2022-09-19,NA
+Rakovník,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1377,0.0247053124495398,0.3696441539578795,2022-09-19,NA
+Říčany,nízké,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,3213,0.04372320881812615,0.3330220977279801,2022-09-19,NA
+Sedlčany,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,740,0.03367003367003367,0.41081081081081083,2022-09-19,NA
+Slaný,velmi vysoké,vysoké,vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,1539,0.03773908778813144,0.38791423001949316,2022-09-19,NA
+Vlašim,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,669,0.025783327552318186,0.36472346786248133,2022-09-19,NA
+Votice,nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,328,0.026324237560192615,0.3567073170731707,2022-09-19,NA
+Blatná,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,463,0.03403410761540723,0.28077753779697623,2022-09-19,NA
+České Budějovice,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,5121,0.03138636920813925,0.33841046670572156,2022-09-19,NA
+Český Krumlov,střední,velmi vysoké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,1853,0.04470769898907038,0.34214786832164057,2022-09-19,NA
+Dačice,střední,střední,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,268,0.014353041988003428,0.3805970149253731,2022-09-19,NA
+Jindřichův Hradec,nízké,vysoké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,908,0.01934466743363586,0.3964757709251101,2022-09-19,NA
+Kaplice,vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1000,0.050319529009208476,0.271,2022-09-19,NA
+Milevsko,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,284,0.01562585969738652,0.4119718309859155,2022-09-19,NA
+Písek,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",2059,0.03854866792728362,0.30694511898980087,2022-09-19,NA
+Prachatice,vysoké,vysoké,nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",1304,0.03915092923409493,0.29141104294478526,2022-09-19,NA
+Soběslav,velmi vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,644,0.02932337674164466,0.281055900621118,2022-09-19,NA
+Strakonice,vysoké,střední,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,906,0.02013288593586809,0.34216335540838855,2022-09-19,NA
+Tábor,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2647,0.03288648138254917,0.3282961843596524,2022-09-19,NA
+Trhové Sviny,velmi vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,328,0.016951780453770222,0.4329268292682927,2022-09-19,NA
+Třeboň,vysoké,vysoké,střední,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,721,0.02922696501682273,0.3897364771151179,2022-09-19,NA
+Týn nad Vltavou,nízké,vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,287,0.0203647200737955,0.37282229965156793,2022-09-19,NA
+Vimperk,vysoké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",582,0.03331043956043956,0.3745704467353952,2022-09-19,NA
+Vodňany,vysoké,střední,vysoké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1119,0.09382074285235181,0.2931188561215371,2022-09-19,NA
+Blovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,290,0.02370443027627922,0.36551724137931035,2022-09-19,NA
+Domažlice,vysoké,střední,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1287,0.03180604982206406,0.33644133644133645,2022-09-19,NA
+Horažďovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,338,0.029327548806941432,0.35798816568047337,2022-09-19,NA
+Horšovský Týn,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,573,0.038705755201296946,0.2792321116928447,2022-09-19,NA
+Klatovy,vysoké,nízké,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,2086,0.041152101006115605,0.3000958772770853,2022-09-19,NA
+Kralovice,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,626,0.027834593152512226,0.33865814696485624,2022-09-19,NA
+Nepomuk,vysoké,střední,nízké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,245,0.021115228820132725,0.3877551020408163,2022-09-19,NA
+Nýřany,střední,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1853,0.031848885374950585,0.2930383162439288,2022-09-19,NA
+Plzeň,vysoké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,16444,0.08439745432149456,0.26939917295062027,2022-09-19,NA
+Přeštice,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,601,0.02623881248635669,0.3211314475873544,2022-09-19,NA
+Rokycany,vysoké,střední,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1737,0.03509870880397664,0.3149107656879678,2022-09-19,NA
+Stod,velmi vysoké,střední,nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1078,0.04609004232758989,0.3302411873840445,2022-09-19,NA
+Stříbro,velmi vysoké,velmi vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,913,0.05318653151578702,0.24644030668127054,2022-09-19,NA
+Sušice,vysoké,střední,vysoké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,709,0.029494966303353024,0.3540197461212976,2022-09-19,NA
+Tachov,velmi vysoké,velmi vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,3750,0.10074416355479139,0.2176,2022-09-19,NA
+Aš,velmi vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,598,0.03395605019590029,0.29431438127090304,2022-09-19,NA
+Cheb,velmi vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2778,0.05565238295570647,0.298776097912167,2022-09-19,NA
+Karlovy Vary,vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,6784,0.07797611521706647,0.32856721698113206,2022-09-19,NA
+Kraslice,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",245,0.01884470425351896,0.35918367346938773,2022-09-19,NA
+Mariánské Lázně,velmi vysoké,velmi vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2527,0.1057056805822806,0.3375544123466561,2022-09-19,NA
+Ostrov,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,882,0.032221532166733645,0.35827664399092973,2022-09-19,NA
+Sokolov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1578,0.021180639445920916,0.38022813688212925,2022-09-19,NA
+Bílina,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,423,0.018793317931402168,0.35697399527186763,2022-09-19,NA
+Děčín,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1066,0.014002180452115433,0.37617260787992496,2022-09-19,NA
+Chomutov,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2422,0.029698478290191656,0.36829066886870354,2022-09-19,NA
+Kadaň,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1517,0.03524055102562316,0.3098220171390903,2022-09-19,NA
+Litoměřice,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1632,0.027775886717952208,0.3743872549019608,2022-09-19,NA
+Litvínov,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,796,0.021551957545892675,0.43467336683417085,2022-09-19,NA
+Louny,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1018,0.023420065797041433,0.3280943025540275,2022-09-19,NA
+Lovosice,střední,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,526,0.01904761904761905,0.29277566539923955,2022-09-19,NA
+Most,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2059,0.027824700333788293,0.3623118018455561,2022-09-19,NA
+Podbořany,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,270,0.017253498626110295,0.3148148148148148,2022-09-19,NA
+Roudnice nad Labem,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,741,0.022587331585685544,0.39946018893387314,2022-09-19,NA
+Rumburk,velmi vysoké,velmi vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,764,0.023486734913461833,0.3416230366492147,2022-09-19,NA
+Teplice,velmi vysoké,velmi vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3989,0.037518105378002674,0.339934820757082,2022-09-19,NA
+Ústí nad Labem,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3196,0.026936140445508256,0.3576345431789737,2022-09-19,NA
+Varnsdorf,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,367,0.018545656677952396,0.35149863760217986,2022-09-19,NA
+Žatec,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,967,0.035488843217850854,0.2936918304033092,2022-09-19,NA
+Česká Lípa,velmi vysoké,velmi vysoké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2331,0.030389549436795994,0.37022737022737023,2022-09-19,NA
+Frýdlant,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,569,0.02321501427988576,0.3532513181019332,2022-09-19,NA
+Jablonec nad Nisou,střední,velmi vysoké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2347,0.04205188848276356,0.34810396250532594,2022-09-19,NA
+Jilemnice,velmi nízké,velmi nízké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,874,0.039810512890589414,0.38329519450800914,2022-09-19,NA
+Liberec,střední,vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,6895,0.04742547425474255,0.32342277012327775,2022-09-19,NA
+Nový Bor,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,480,0.018255115235414923,0.38333333333333336,2022-09-19,NA
+Semily,velmi nízké,střední,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,509,0.019906140007821666,0.39096267190569745,2022-09-19,NA
+Tanvald,velmi vysoké,velmi vysoké,vysoké,Více vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",1025,0.05055736411167012,0.3775609756097561,2022-09-19,NA
+Turnov,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1148,0.03395344710301381,0.3353658536585366,2022-09-19,NA
+Železný Brod,nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,356,0.029273908395691144,0.4044943820224719,2022-09-19,NA
+Broumov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,533,0.03374058365512439,0.425891181988743,2022-09-19,NA
+Dobruška,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,517,0.025685612082670905,0.402321083172147,2022-09-19,NA
+Dvůr Králové nad Labem,nízké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,685,0.025478891575227824,0.3722627737226277,2022-09-19,NA
+Hořice,velmi vysoké,nízké,nízké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,576,0.03138280483818241,0.3871527777777778,2022-09-19,NA
+Hradec Králové,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,5294,0.03600919615285203,0.3252738949754439,2022-09-19,NA
+Jaroměř,velmi vysoké,vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,811,0.042169301164725455,0.3316892725030826,2022-09-19,NA
+Jičín,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1548,0.03192213309137401,0.39082687338501293,2022-09-19,NA
+Kostelec nad Orlicí,vysoké,střední,velmi nízké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,667,0.02664589325663151,0.37031484257871067,2022-09-19,NA
+Náchod,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2088,0.03460276424381028,0.3539272030651341,2022-09-19,NA
+Nová Paka,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",564,0.04244750508015353,0.32978723404255317,2022-09-19,NA
+Nové Město nad Metují,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,436,0.030886936809294416,0.3922018348623853,2022-09-19,NA
+Nový Bydžov,střední,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,519,0.029798472756502267,0.3371868978805395,2022-09-19,NA
+Rychnov nad Kněžnou,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1686,0.04933719603195505,0.3107947805456702,2022-09-19,NA
+Trutnov,nízké,vysoké,střední,Méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",1537,0.02437902483900644,0.3715029277813923,2022-09-19,NA
+Vrchlabí,velmi vysoké,střední,nízké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1239,0.04508241458356075,0.3502824858757062,2022-09-19,NA
+Česká Třebová,velmi vysoké,vysoké,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,342,0.019156444295076458,0.38011695906432746,2022-09-19,NA
+Hlinsko,vysoké,velmi nízké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,492,0.023410734678340313,0.2926829268292683,2022-09-19,NA
+Holice,střední,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,873,0.04838173354023498,0.28865979381443296,2022-09-19,NA
+Chrudim,vysoké,nízké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2868,0.03426850834010419,0.3507670850767085,2022-09-19,NA
+Králíky,velmi vysoké,vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",334,0.03875609190067301,0.3712574850299401,2022-09-19,NA
+Lanškroun,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,693,0.030019493177387915,0.341991341991342,2022-09-19,NA
+Litomyšl,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1102,0.04065220599085141,0.2985480943738657,2022-09-19,NA
+Moravská Třebová,vysoké,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,417,0.016055752348683196,0.29256594724220625,2022-09-19,NA
+Pardubice,vysoké,střední,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,6430,0.04867414063268813,0.325194401244168,2022-09-19,NA
+Polička,nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,753,0.038388988019372926,0.29880478087649404,2022-09-19,NA
+Přelouč,vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,1178,0.045325125048095424,0.29711375212224106,2022-09-19,NA
+Svitavy,střední,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,499,0.015939945695575785,0.4288577154308617,2022-09-19,NA
+Ústí nad Orlicí,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,577,0.021764550563916865,0.32062391681109187,2022-09-19,NA
+Vysoké Mýto,velmi vysoké,nízké,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1096,0.0337417646696632,0.3302919708029197,2022-09-19,NA
+Žamberk,střední,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,825,0.028002172289729142,0.3478787878787879,2022-09-19,NA
+Bystřice nad Pernštejnem,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",402,0.02044241037376049,0.3805970149253731,2022-09-19,NA
+Havlíčkův Brod,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1364,0.025807916445924468,0.36363636363636365,2022-09-19,NA
+Humpolec,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,944,0.052684451389664023,0.336864406779661,2022-09-19,NA
+Chotěboř,nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,373,0.017139181179065387,0.3753351206434316,2022-09-19,NA
+Jihlava,nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,4038,0.0399232777030768,0.32169390787518576,2022-09-19,NA
+Moravské Budějovice,vysoké,nízké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,284,0.012393628627536547,0.2746478873239437,2022-09-19,NA
+Náměšť nad Oslavou,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,281,0.020942018184528247,0.35587188612099646,2022-09-19,NA
+Nové Město na Moravě,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,438,0.02261695755447692,0.3789954337899543,2022-09-19,NA
+Pacov,střední,velmi nízké,nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,442,0.04748093243098077,0.3235294117647059,2022-09-19,NA
+Pelhřimov,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1936,0.04295444964611391,0.3202479338842975,2022-09-19,NA
+Světlá nad Sázavou,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,451,0.023044300240151243,0.401330376940133,2022-09-19,NA
+Telč,velmi nízké,velmi nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,375,0.028966476131623668,0.4026666666666667,2022-09-19,NA
+Třebíč,velmi nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1491,0.02014755959137344,0.33668678739101277,2022-09-19,NA
+Velké Meziříčí,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1049,0.02879653014164928,0.340324118207817,2022-09-19,NA
+Žďár nad Sázavou,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1165,0.02742337931359164,0.3536480686695279,2022-09-19,NA
+Blansko,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1494,0.026189850118327637,0.3293172690763052,2022-09-19,NA
+Boskovice,velmi nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1266,0.024318561631994466,0.34755134281200634,2022-09-19,NA
+Brno,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,20616,0.053911428982361634,0.32557237097400077,2022-09-19,NA
+Břeclav,nízké,střední,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2142,0.03593718542379706,0.3006535947712418,2022-09-19,NA
+Bučovice,střední,střední,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,378,0.023347745521927116,0.31216931216931215,2022-09-19,NA
+Hodonín,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,874,0.014427441852787269,0.2803203661327231,2022-09-19,NA
+Hustopeče,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,1157,0.03172557514601442,0.34226447709593777,2022-09-19,NA
+Ivančice,střední,střední,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,661,0.02681215267918712,0.264750378214826,2022-09-19,NA
+Kuřim,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,910,0.03863462681497835,0.38461538461538464,2022-09-19,NA
+Kyjov,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,906,0.016315505132360887,0.2792494481236203,2022-09-19,NA
+Mikulov,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,722,0.035376549561467976,0.36426592797783935,2022-09-19,NA
+Moravský Krumlov,střední,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",409,0.018172931662667733,0.36674816625916873,2022-09-19,NA
+Pohořelice,velmi vysoké,nízké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,726,0.048741188318227595,0.26859504132231404,2022-09-19,NA
+Rosice,velmi nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,595,0.022503782148260213,0.38823529411764707,2022-09-19,NA
+Slavkov u Brna,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,411,0.016931696465353877,0.3819951338199513,2022-09-19,NA
+Šlapanice,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1891,0.026595595060617143,0.358011634056055,2022-09-19,NA
+Tišnov,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,877,0.027496472801379526,0.36830102622576966,2022-09-19,NA
+Veselí nad Moravou,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,817,0.02178782868419649,0.36474908200734396,2022-09-19,NA
+Vyškov,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1183,0.02263205218955061,0.3448858833474218,2022-09-19,NA
+Znojmo,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2721,0.029561306303370054,0.3741271591326718,2022-09-19,NA
+Židlochovice,střední,velmi nízké,střední,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,719,0.02120756275255877,0.32684283727399166,2022-09-19,NA
+Hranice,střední,střední,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1196,0.03511965937454118,0.28595317725752506,2022-09-19,NA
+Jeseník,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",747,0.01980959452650561,0.3668005354752343,2022-09-19,NA
+Konice,nízké,velmi nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,145,0.01362013901934999,0.3448275862068966,2022-09-19,NA
+Lipník nad Bečvou,nízké,střední,vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",220,0.014570501357705809,0.35454545454545455,2022-09-19,NA
+Litovel,střední,nízké,střední,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",558,0.02365008052894804,0.3064516129032258,2022-09-19,NA
+Mohelnice,velmi nízké,nízké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",543,0.029506058794761723,0.30755064456721914,2022-09-19,NA
+Olomouc,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,4061,0.02455200599743658,0.3484363457276533,2022-09-19,NA
+Prostějov,vysoké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1635,0.016707882850661163,0.35902140672782873,2022-09-19,NA
+Přerov,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1415,0.017743614179843756,0.35053003533568905,2022-09-19,NA
+Šternberk,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,268,0.011126333706978868,0.4253731343283582,2022-09-19,NA
+Šumperk,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1505,0.021966634069446673,0.36943521594684386,2022-09-19,NA
+Uničov,nízké,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,427,0.019100017892288424,0.3255269320843091,2022-09-19,NA
+Zábřeh,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,464,0.01403890956400714,0.28448275862068967,2022-09-19,NA
+Bystřice pod Hostýnem,vysoké,nízké,velmi vysoké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,344,0.0225944170771757,0.39244186046511625,2022-09-19,NA
+Holešov,velmi nízké,nízké,střední,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,217,0.010084111715228402,0.3317972350230415,2022-09-19,NA
+Kroměříž,nízké,střední,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1101,0.016171675332687055,0.3369663941871026,2022-09-19,NA
+Luhačovice,velmi nízké,velmi nízké,nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,654,0.03522378413313944,0.327217125382263,2022-09-19,NA
+Otrokovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,908,0.02672789355940186,0.34140969162995594,2022-09-19,NA
+Rožnov pod Radhoštěm,velmi nízké,velmi nízké,střední,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,789,0.02251519561681363,0.3612167300380228,2022-09-19,NA
+Uherské Hradiště,velmi nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1753,0.01954945912791346,0.31831146605818594,2022-09-19,NA
+Uherský Brod,velmi nízké,velmi nízké,střední,Výrazně méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,932,0.01793687451886066,0.30150214592274677,2022-09-19,NA
+Valašské Klobouky,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,326,0.014141326508480458,0.32515337423312884,2022-09-19,NA
+Valašské Meziříčí,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1348,0.03230522203848827,0.31305637982195844,2022-09-19,NA
+Vizovice,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,352,0.02045084824541018,0.26704545454545453,2022-09-19,NA
+Vsetín,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,994,0.015262721493719865,0.358148893360161,2022-09-19,NA
+Zlín,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2363,0.023877610824247445,0.32966567922132883,2022-09-19,NA
+Bílovec,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,447,0.017426900584795322,0.33109619686800895,2022-09-19,NA
+Bohumín,vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,671,0.020224244981614323,0.26527570789865873,2022-09-19,NA
+Bruntál,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",509,0.014108320860358113,0.35363457760314343,2022-09-19,NA
+Český Těšín,nízké,vysoké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,303,0.011892613234947799,0.38613861386138615,2022-09-19,NA
+Frenštát pod Radhoštěm,střední,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,367,0.018814723674766737,0.40054495912806537,2022-09-19,NA
+Frýdek-Místek,velmi nízké,střední,nízké,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,4665,0.04154458584545236,0.5178992497320472,2022-09-19,NA
+Frýdlant nad Ostravicí,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,554,0.02204097871493933,0.427797833935018,2022-09-19,NA
+Havířov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1912,0.022342190749959103,0.42311715481171547,2022-09-19,NA
+Hlučín,velmi nízké,střední,nízké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,334,0.008215269578905943,0.4101796407185629,2022-09-19,NA
+Jablunkov,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,298,0.01314164755688834,0.40268456375838924,2022-09-19,NA
+Karviná,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",786,0.012735344632036035,0.37404580152671757,2022-09-19,NA
+Kopřivnice,velmi nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,855,0.021076763792338412,0.3263157894736842,2022-09-19,NA
+Kravaře,velmi nízké,střední,vysoké,Výrazně méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,98,0.0046005069946483896,0.3163265306122449,2022-09-19,NA
+Krnov,střední,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,484,0.0121632488942501,0.38016528925619836,2022-09-19,NA
+Nový Jičín,velmi nízké,střední,nízké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,962,0.019736167244527418,0.316008316008316,2022-09-19,NA
+Odry,vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,391,0.02309100572845922,0.3989769820971867,2022-09-19,NA
+Opava,velmi nízké,nízké,střední,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1758,0.017478276431170586,0.3225255972696246,2022-09-19,NA
+Orlová,vysoké,velmi vysoké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,207,0.005620875987726396,0.3188405797101449,2022-09-19,NA
+Ostrava,velmi vysoké,velmi vysoké,vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,7114,0.022418867900744353,0.3044700590385156,2022-09-19,NA
+Rýmařov,vysoké,velmi vysoké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,333,0.022051519766902856,0.3783783783783784,2022-09-19,NA
+Třinec,velmi nízké,velmi nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,812,0.014902637326334721,0.37807881773399016,2022-09-19,NA
+Vítkov,velmi vysoké,velmi vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,243,0.01835763390496336,0.37037037037037035,2022-09-19,NA
+Praha,nízké,střední,velmi nízké,Vzdělávací problémy na míře očekávání,NA,94618,0.07087044710295382,0.3261430171848908,2022-09-18,NA
+Benešov,velmi nízké,nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2350,0.038314176245210725,0.3659574468085106,2022-09-18,NA
+Beroun,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2205,0.03336510962821735,0.3396825396825397,2022-09-18,NA
+Brandýs nad Labem-Stará Boleslav,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,5627,0.0487380255339789,0.32912742136129375,2022-09-18,NA
+Čáslav,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1015,0.03924677132472353,0.3192118226600985,2022-09-18,NA
+Černošice,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,6498,0.04266999376169682,0.3804247460757156,2022-09-18,NA
+Český Brod,vysoké,vysoké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,817,0.03738788211605345,0.34516523867809057,2022-09-18,NA
+Dobříš,vysoké,nízké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,606,0.02604995056527533,0.36633663366336633,2022-09-18,NA
+Hořovice,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1489,0.04911597836126138,0.31967763599731364,2022-09-18,NA
+Kladno,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3536,0.028049022329750525,0.3563348416289593,2022-09-18,NA
+Kolín,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3167,0.03752191839249325,0.3438585412061888,2022-09-18,NA
+Kralupy nad Vltavou,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1573,0.047776697849593,0.3477431659249841,2022-09-18,NA
+Kutná Hora,vysoké,vysoké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2060,0.040834126228988264,0.36067961165048545,2022-09-18,NA
+Lysá nad Labem,střední,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2451,0.09029287161539878,0.3627090983272134,2022-09-18,NA
+Mělník,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1717,0.03832760391088888,0.35993011065812464,2022-09-18,NA
+Mladá Boleslav,střední,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,8753,0.07745674970134064,0.41220153090369016,2022-09-18,NA
+Mnichovo Hradiště,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,698,0.038698231413206184,0.33810888252148996,2022-09-18,NA
+Neratovice,velmi vysoké,vysoké,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,991,0.030714396404772974,0.3481331987891019,2022-09-18,NA
+Nymburk,střední,střední,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1436,0.03546116804543771,0.3426183844011142,2022-09-18,NA
+Poděbrady,velmi nízké,střední,střední,Výrazně méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1068,0.033824228028503565,0.3586142322097378,2022-09-18,NA
+Příbram,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2847,0.0406743338809915,0.3266596417281349,2022-09-18,NA
+Rakovník,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1377,0.0247053124495398,0.3696441539578795,2022-09-18,NA
+Říčany,nízké,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,3213,0.04372320881812615,0.3330220977279801,2022-09-18,NA
+Sedlčany,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,740,0.03367003367003367,0.41081081081081083,2022-09-18,NA
+Slaný,velmi vysoké,vysoké,vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,1539,0.03773908778813144,0.38791423001949316,2022-09-18,NA
+Vlašim,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,669,0.025783327552318186,0.36472346786248133,2022-09-18,NA
+Votice,nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,328,0.026324237560192615,0.3567073170731707,2022-09-18,NA
+Blatná,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,463,0.03403410761540723,0.28077753779697623,2022-09-18,NA
+České Budějovice,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,5121,0.03138636920813925,0.338605741066198,2022-09-18,NA
+Český Krumlov,střední,velmi vysoké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,1853,0.04470769898907038,0.34214786832164057,2022-09-18,NA
+Dačice,střední,střední,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,268,0.014353041988003428,0.3805970149253731,2022-09-18,NA
+Jindřichův Hradec,nízké,vysoké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,908,0.01934466743363586,0.3964757709251101,2022-09-18,NA
+Kaplice,vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1000,0.050319529009208476,0.271,2022-09-18,NA
+Milevsko,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,284,0.01562585969738652,0.4119718309859155,2022-09-18,NA
+Písek,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",2059,0.03854866792728362,0.3074307916464303,2022-09-18,NA
+Prachatice,vysoké,vysoké,nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",1304,0.03915092923409493,0.29141104294478526,2022-09-18,NA
+Soběslav,velmi vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,644,0.02932337674164466,0.281055900621118,2022-09-18,NA
+Strakonice,vysoké,střední,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,906,0.02013288593586809,0.34216335540838855,2022-09-18,NA
+Tábor,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2647,0.03288648138254917,0.3282961843596524,2022-09-18,NA
+Trhové Sviny,velmi vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,328,0.016951780453770222,0.4329268292682927,2022-09-18,NA
+Třeboň,vysoké,vysoké,střední,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,721,0.02922696501682273,0.3897364771151179,2022-09-18,NA
+Týn nad Vltavou,nízké,vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,287,0.0203647200737955,0.37282229965156793,2022-09-18,NA
+Vimperk,vysoké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",582,0.03331043956043956,0.3745704467353952,2022-09-18,NA
+Vodňany,vysoké,střední,vysoké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1119,0.09382074285235181,0.2931188561215371,2022-09-18,NA
+Blovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,290,0.02370443027627922,0.36551724137931035,2022-09-18,NA
+Domažlice,vysoké,střední,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1287,0.03180604982206406,0.33644133644133645,2022-09-18,NA
+Horažďovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,338,0.029327548806941432,0.35798816568047337,2022-09-18,NA
+Horšovský Týn,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,573,0.038705755201296946,0.2792321116928447,2022-09-18,NA
+Klatovy,vysoké,nízké,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,2086,0.041152101006115605,0.30057526366251197,2022-09-18,NA
+Kralovice,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,626,0.027834593152512226,0.33865814696485624,2022-09-18,NA
+Nepomuk,vysoké,střední,nízké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,245,0.021115228820132725,0.3877551020408163,2022-09-18,NA
+Nýřany,střední,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1853,0.031848885374950585,0.2930383162439288,2022-09-18,NA
+Plzeň,vysoké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,16444,0.08439745432149456,0.2694599854050109,2022-09-18,NA
+Přeštice,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,601,0.02623881248635669,0.3211314475873544,2022-09-18,NA
+Rokycany,vysoké,střední,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1737,0.03509870880397664,0.3149107656879678,2022-09-18,NA
+Stod,velmi vysoké,střední,nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1078,0.04609004232758989,0.3302411873840445,2022-09-18,NA
+Stříbro,velmi vysoké,velmi vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,913,0.05318653151578702,0.24644030668127054,2022-09-18,NA
+Sušice,vysoké,střední,vysoké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,709,0.029494966303353024,0.3540197461212976,2022-09-18,NA
+Tachov,velmi vysoké,velmi vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,3750,0.10074416355479139,0.2176,2022-09-18,NA
+Aš,velmi vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,598,0.03395605019590029,0.29431438127090304,2022-09-18,NA
+Cheb,velmi vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2778,0.05565238295570647,0.298776097912167,2022-09-18,NA
+Karlovy Vary,vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,6784,0.07797611521706647,0.32856721698113206,2022-09-18,NA
+Kraslice,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",245,0.01884470425351896,0.35918367346938773,2022-09-18,NA
+Mariánské Lázně,velmi vysoké,velmi vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2527,0.1057056805822806,0.3375544123466561,2022-09-18,NA
+Ostrov,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,882,0.032221532166733645,0.35827664399092973,2022-09-18,NA
+Sokolov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1578,0.021180639445920916,0.38022813688212925,2022-09-18,NA
+Bílina,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,423,0.018793317931402168,0.35697399527186763,2022-09-18,NA
+Děčín,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1066,0.014002180452115433,0.37617260787992496,2022-09-18,NA
+Chomutov,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2422,0.029698478290191656,0.36829066886870354,2022-09-18,NA
+Kadaň,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1517,0.03524055102562316,0.3098220171390903,2022-09-18,NA
+Litoměřice,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1632,0.027775886717952208,0.3743872549019608,2022-09-18,NA
+Litvínov,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,796,0.021551957545892675,0.43467336683417085,2022-09-18,NA
+Louny,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1018,0.023420065797041433,0.3280943025540275,2022-09-18,NA
+Lovosice,střední,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,526,0.01904761904761905,0.29277566539923955,2022-09-18,NA
+Most,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2059,0.027824700333788293,0.3623118018455561,2022-09-18,NA
+Podbořany,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,270,0.017253498626110295,0.3148148148148148,2022-09-18,NA
+Roudnice nad Labem,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,741,0.022587331585685544,0.39946018893387314,2022-09-18,NA
+Rumburk,velmi vysoké,velmi vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,764,0.023486734913461833,0.3416230366492147,2022-09-18,NA
+Teplice,velmi vysoké,velmi vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3989,0.037518105378002674,0.34018551015292053,2022-09-18,NA
+Ústí nad Labem,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3196,0.026936140445508256,0.3576345431789737,2022-09-18,NA
+Varnsdorf,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,367,0.018545656677952396,0.35149863760217986,2022-09-18,NA
+Žatec,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,967,0.035488843217850854,0.2936918304033092,2022-09-18,NA
+Česká Lípa,velmi vysoké,velmi vysoké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2331,0.030389549436795994,0.37022737022737023,2022-09-18,NA
+Frýdlant,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,569,0.02321501427988576,0.3532513181019332,2022-09-18,NA
+Jablonec nad Nisou,střední,velmi vysoké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2347,0.04205188848276356,0.34810396250532594,2022-09-18,NA
+Jilemnice,velmi nízké,velmi nízké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,874,0.039810512890589414,0.38329519450800914,2022-09-18,NA
+Liberec,střední,vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,6895,0.04742547425474255,0.32356780275562,2022-09-18,NA
+Nový Bor,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,480,0.018255115235414923,0.38333333333333336,2022-09-18,NA
+Semily,velmi nízké,střední,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,509,0.019906140007821666,0.39096267190569745,2022-09-18,NA
+Tanvald,velmi vysoké,velmi vysoké,vysoké,Více vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",1025,0.05055736411167012,0.3775609756097561,2022-09-18,NA
+Turnov,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1148,0.03395344710301381,0.3353658536585366,2022-09-18,NA
+Železný Brod,nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,356,0.029273908395691144,0.4044943820224719,2022-09-18,NA
+Broumov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,533,0.03374058365512439,0.425891181988743,2022-09-18,NA
+Dobruška,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,517,0.025685612082670905,0.402321083172147,2022-09-18,NA
+Dvůr Králové nad Labem,nízké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,685,0.025478891575227824,0.3722627737226277,2022-09-18,NA
+Hořice,velmi vysoké,nízké,nízké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,576,0.03138280483818241,0.3871527777777778,2022-09-18,NA
+Hradec Králové,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,5294,0.03600919615285203,0.3252738949754439,2022-09-18,NA
+Jaroměř,velmi vysoké,vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,811,0.042169301164725455,0.3316892725030826,2022-09-18,NA
+Jičín,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1548,0.03192213309137401,0.39082687338501293,2022-09-18,NA
+Kostelec nad Orlicí,vysoké,střední,velmi nízké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,667,0.02664589325663151,0.37031484257871067,2022-09-18,NA
+Náchod,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2088,0.03460276424381028,0.3544061302681992,2022-09-18,NA
+Nová Paka,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",564,0.04244750508015353,0.33156028368794327,2022-09-18,NA
+Nové Město nad Metují,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,436,0.030886936809294416,0.3922018348623853,2022-09-18,NA
+Nový Bydžov,střední,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,519,0.029798472756502267,0.3371868978805395,2022-09-18,NA
+Rychnov nad Kněžnou,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1686,0.04933719603195505,0.3107947805456702,2022-09-18,NA
+Trutnov,nízké,vysoké,střední,Méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",1537,0.02437902483900644,0.3715029277813923,2022-09-18,NA
+Vrchlabí,velmi vysoké,střední,nízké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1239,0.04508241458356075,0.3502824858757062,2022-09-18,NA
+Česká Třebová,velmi vysoké,vysoké,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,342,0.019156444295076458,0.38011695906432746,2022-09-18,NA
+Hlinsko,vysoké,velmi nízké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,492,0.023410734678340313,0.2926829268292683,2022-09-18,NA
+Holice,střední,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,873,0.04838173354023498,0.28865979381443296,2022-09-18,NA
+Chrudim,vysoké,nízké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2868,0.03426850834010419,0.3507670850767085,2022-09-18,NA
+Králíky,velmi vysoké,vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",334,0.03875609190067301,0.3712574850299401,2022-09-18,NA
+Lanškroun,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,693,0.030019493177387915,0.341991341991342,2022-09-18,NA
+Litomyšl,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1102,0.04065220599085141,0.2985480943738657,2022-09-18,NA
+Moravská Třebová,vysoké,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,417,0.016055752348683196,0.29256594724220625,2022-09-18,NA
+Pardubice,vysoké,střední,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,6430,0.04867414063268813,0.325194401244168,2022-09-18,NA
+Polička,nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,753,0.038388988019372926,0.29880478087649404,2022-09-18,NA
+Přelouč,vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,1178,0.045325125048095424,0.29711375212224106,2022-09-18,NA
+Svitavy,střední,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,499,0.015939945695575785,0.4288577154308617,2022-09-18,NA
+Ústí nad Orlicí,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,577,0.021764550563916865,0.32062391681109187,2022-09-18,NA
+Vysoké Mýto,velmi vysoké,nízké,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1096,0.0337417646696632,0.3302919708029197,2022-09-18,NA
+Žamberk,střední,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,825,0.028002172289729142,0.3478787878787879,2022-09-18,NA
+Bystřice nad Pernštejnem,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",402,0.02044241037376049,0.3805970149253731,2022-09-18,NA
+Havlíčkův Brod,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1364,0.025807916445924468,0.36363636363636365,2022-09-18,NA
+Humpolec,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,944,0.052684451389664023,0.336864406779661,2022-09-18,NA
+Chotěboř,nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,373,0.017139181179065387,0.3753351206434316,2022-09-18,NA
+Jihlava,nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,4038,0.0399232777030768,0.32169390787518576,2022-09-18,NA
+Moravské Budějovice,vysoké,nízké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,284,0.012393628627536547,0.2746478873239437,2022-09-18,NA
+Náměšť nad Oslavou,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,281,0.020942018184528247,0.35587188612099646,2022-09-18,NA
+Nové Město na Moravě,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,438,0.02261695755447692,0.3789954337899543,2022-09-18,NA
+Pacov,střední,velmi nízké,nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,442,0.04748093243098077,0.3235294117647059,2022-09-18,NA
+Pelhřimov,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1936,0.04295444964611391,0.3202479338842975,2022-09-18,NA
+Světlá nad Sázavou,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,451,0.023044300240151243,0.401330376940133,2022-09-18,NA
+Telč,velmi nízké,velmi nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,375,0.028966476131623668,0.4026666666666667,2022-09-18,NA
+Třebíč,velmi nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1491,0.02014755959137344,0.33668678739101277,2022-09-18,NA
+Velké Meziříčí,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1049,0.02879653014164928,0.340324118207817,2022-09-18,NA
+Žďár nad Sázavou,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1165,0.02742337931359164,0.3536480686695279,2022-09-18,NA
+Blansko,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1494,0.026189850118327637,0.3293172690763052,2022-09-18,NA
+Boskovice,velmi nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1266,0.024318561631994466,0.34755134281200634,2022-09-18,NA
+Brno,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,20616,0.053911428982361634,0.32557237097400077,2022-09-18,NA
+Břeclav,nízké,střední,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2142,0.03593718542379706,0.3006535947712418,2022-09-18,NA
+Bučovice,střední,střední,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,378,0.023347745521927116,0.31216931216931215,2022-09-18,NA
+Hodonín,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,874,0.014427441852787269,0.2803203661327231,2022-09-18,NA
+Hustopeče,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,1157,0.03172557514601442,0.34226447709593777,2022-09-18,NA
+Ivančice,střední,střední,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,661,0.02681215267918712,0.264750378214826,2022-09-18,NA
+Kuřim,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,910,0.03863462681497835,0.38461538461538464,2022-09-18,NA
+Kyjov,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,906,0.016315505132360887,0.2792494481236203,2022-09-18,NA
+Mikulov,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,722,0.035376549561467976,0.36426592797783935,2022-09-18,NA
+Moravský Krumlov,střední,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",409,0.018172931662667733,0.36674816625916873,2022-09-18,NA
+Pohořelice,velmi vysoké,nízké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,726,0.048741188318227595,0.26859504132231404,2022-09-18,NA
+Rosice,velmi nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,595,0.022503782148260213,0.38823529411764707,2022-09-18,NA
+Slavkov u Brna,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,411,0.016931696465353877,0.3819951338199513,2022-09-18,NA
+Šlapanice,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1891,0.026595595060617143,0.358011634056055,2022-09-18,NA
+Tišnov,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,877,0.027496472801379526,0.36830102622576966,2022-09-18,NA
+Veselí nad Moravou,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,817,0.02178782868419649,0.36474908200734396,2022-09-18,NA
+Vyškov,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1183,0.02263205218955061,0.3448858833474218,2022-09-18,NA
+Znojmo,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2721,0.029561306303370054,0.3741271591326718,2022-09-18,NA
+Židlochovice,střední,velmi nízké,střední,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,719,0.02120756275255877,0.32684283727399166,2022-09-18,NA
+Hranice,střední,střední,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1196,0.03511965937454118,0.28595317725752506,2022-09-18,NA
+Jeseník,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",747,0.01980959452650561,0.3668005354752343,2022-09-18,NA
+Konice,nízké,velmi nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,145,0.01362013901934999,0.3448275862068966,2022-09-18,NA
+Lipník nad Bečvou,nízké,střední,vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",220,0.014570501357705809,0.35454545454545455,2022-09-18,NA
+Litovel,střední,nízké,střední,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",558,0.02365008052894804,0.30824372759856633,2022-09-18,NA
+Mohelnice,velmi nízké,nízké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",543,0.029506058794761723,0.30755064456721914,2022-09-18,NA
+Olomouc,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,4061,0.02455200599743658,0.3484363457276533,2022-09-18,NA
+Prostějov,vysoké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1635,0.016707882850661163,0.35902140672782873,2022-09-18,NA
+Přerov,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1415,0.017743614179843756,0.35053003533568905,2022-09-18,NA
+Šternberk,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,268,0.011126333706978868,0.4253731343283582,2022-09-18,NA
+Šumperk,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1505,0.021966634069446673,0.36943521594684386,2022-09-18,NA
+Uničov,nízké,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,427,0.019100017892288424,0.3255269320843091,2022-09-18,NA
+Zábřeh,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,464,0.01403890956400714,0.28448275862068967,2022-09-18,NA
+Bystřice pod Hostýnem,vysoké,nízké,velmi vysoké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,344,0.0225944170771757,0.39244186046511625,2022-09-18,NA
+Holešov,velmi nízké,nízké,střední,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,217,0.010084111715228402,0.3317972350230415,2022-09-18,NA
+Kroměříž,nízké,střední,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1101,0.016171675332687055,0.3369663941871026,2022-09-18,NA
+Luhačovice,velmi nízké,velmi nízké,nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,654,0.03522378413313944,0.327217125382263,2022-09-18,NA
+Otrokovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,908,0.02672789355940186,0.34140969162995594,2022-09-18,NA
+Rožnov pod Radhoštěm,velmi nízké,velmi nízké,střední,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,789,0.02251519561681363,0.3612167300380228,2022-09-18,NA
+Uherské Hradiště,velmi nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1753,0.01954945912791346,0.31831146605818594,2022-09-18,NA
+Uherský Brod,velmi nízké,velmi nízké,střední,Výrazně méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,932,0.01793687451886066,0.30150214592274677,2022-09-18,NA
+Valašské Klobouky,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,326,0.014141326508480458,0.32515337423312884,2022-09-18,NA
+Valašské Meziříčí,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1348,0.03230522203848827,0.31305637982195844,2022-09-18,NA
+Vizovice,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,352,0.02045084824541018,0.26704545454545453,2022-09-18,NA
+Vsetín,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,994,0.015262721493719865,0.358148893360161,2022-09-18,NA
+Zlín,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2363,0.023877610824247445,0.32966567922132883,2022-09-18,NA
+Bílovec,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,447,0.017426900584795322,0.33109619686800895,2022-09-18,NA
+Bohumín,vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,671,0.020224244981614323,0.26527570789865873,2022-09-18,NA
+Bruntál,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",509,0.014108320860358113,0.35363457760314343,2022-09-18,NA
+Český Těšín,nízké,vysoké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,303,0.011892613234947799,0.38613861386138615,2022-09-18,NA
+Frenštát pod Radhoštěm,střední,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,367,0.018814723674766737,0.40054495912806537,2022-09-18,NA
+Frýdek-Místek,velmi nízké,střední,nízké,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,4665,0.04154458584545236,0.5178992497320472,2022-09-18,NA
+Frýdlant nad Ostravicí,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,554,0.02204097871493933,0.427797833935018,2022-09-18,NA
+Havířov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1912,0.022342190749959103,0.42311715481171547,2022-09-18,NA
+Hlučín,velmi nízké,střední,nízké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,334,0.008215269578905943,0.4101796407185629,2022-09-18,NA
+Jablunkov,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,298,0.01314164755688834,0.40268456375838924,2022-09-18,NA
+Karviná,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",786,0.012735344632036035,0.37404580152671757,2022-09-18,NA
+Kopřivnice,velmi nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,855,0.021076763792338412,0.3263157894736842,2022-09-18,NA
+Kravaře,velmi nízké,střední,vysoké,Výrazně méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,98,0.0046005069946483896,0.3163265306122449,2022-09-18,NA
+Krnov,střední,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,484,0.0121632488942501,0.38016528925619836,2022-09-18,NA
+Nový Jičín,velmi nízké,střední,nízké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,962,0.019736167244527418,0.31704781704781704,2022-09-18,NA
+Odry,vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,391,0.02309100572845922,0.3989769820971867,2022-09-18,NA
+Opava,velmi nízké,nízké,střední,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1758,0.017478276431170586,0.323094425483504,2022-09-18,NA
+Orlová,vysoké,velmi vysoké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,207,0.005620875987726396,0.3188405797101449,2022-09-18,NA
+Ostrava,velmi vysoké,velmi vysoké,vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,7114,0.022418867900744353,0.3044700590385156,2022-09-18,NA
+Rýmařov,vysoké,velmi vysoké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,333,0.022051519766902856,0.3783783783783784,2022-09-18,NA
+Třinec,velmi nízké,velmi nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,812,0.014902637326334721,0.3793103448275862,2022-09-18,NA
+Vítkov,velmi vysoké,velmi vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,243,0.01835763390496336,0.37037037037037035,2022-09-18,NA
+Praha,nízké,střední,velmi nízké,Vzdělávací problémy na míře očekávání,NA,94617,0.07086969808641254,0.32629442911950285,2022-09-17,NA
+Benešov,velmi nízké,nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2350,0.038314176245210725,0.3659574468085106,2022-09-17,NA
+Beroun,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2205,0.03336510962821735,0.3396825396825397,2022-09-17,NA
+Brandýs nad Labem-Stará Boleslav,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,5627,0.0487380255339789,0.32912742136129375,2022-09-17,NA
+Čáslav,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1015,0.03924677132472353,0.3192118226600985,2022-09-17,NA
+Černošice,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,6499,0.04267656039662475,0.3803662101861825,2022-09-17,NA
+Český Brod,vysoké,vysoké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,817,0.03738788211605345,0.34516523867809057,2022-09-17,NA
+Dobříš,vysoké,nízké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,606,0.02604995056527533,0.36633663366336633,2022-09-17,NA
+Hořovice,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1489,0.04911597836126138,0.31967763599731364,2022-09-17,NA
+Kladno,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3537,0.028056954745567762,0.356234096692112,2022-09-17,NA
+Kolín,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3167,0.03752191839249325,0.3438585412061888,2022-09-17,NA
+Kralupy nad Vltavou,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1573,0.047776697849593,0.3477431659249841,2022-09-17,NA
+Kutná Hora,vysoké,vysoké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2060,0.040834126228988264,0.36067961165048545,2022-09-17,NA
+Lysá nad Labem,střední,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2451,0.09029287161539878,0.3627090983272134,2022-09-17,NA
+Mělník,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1717,0.03832760391088888,0.35993011065812464,2022-09-17,NA
+Mladá Boleslav,střední,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,8753,0.07745674970134064,0.41220153090369016,2022-09-17,NA
+Mnichovo Hradiště,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,698,0.038698231413206184,0.33954154727793695,2022-09-17,NA
+Neratovice,velmi vysoké,vysoké,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,991,0.030714396404772974,0.3481331987891019,2022-09-17,NA
+Nymburk,střední,střední,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1436,0.03546116804543771,0.3426183844011142,2022-09-17,NA
+Poděbrady,velmi nízké,střední,střední,Výrazně méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1068,0.033824228028503565,0.3586142322097378,2022-09-17,NA
+Příbram,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2847,0.0406743338809915,0.3266596417281349,2022-09-17,NA
+Rakovník,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1377,0.0247053124495398,0.3696441539578795,2022-09-17,NA
+Říčany,nízké,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,3213,0.04372320881812615,0.3330220977279801,2022-09-17,NA
+Sedlčany,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,740,0.03367003367003367,0.41081081081081083,2022-09-17,NA
+Slaný,velmi vysoké,vysoké,vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,1539,0.03773908778813144,0.38791423001949316,2022-09-17,NA
+Vlašim,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,669,0.025783327552318186,0.36472346786248133,2022-09-17,NA
+Votice,nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,328,0.026324237560192615,0.3567073170731707,2022-09-17,NA
+Blatná,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,463,0.03403410761540723,0.28077753779697623,2022-09-17,NA
+České Budějovice,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,5121,0.03138636920813925,0.33880101542667446,2022-09-17,NA
+Český Krumlov,střední,velmi vysoké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,1853,0.04470769898907038,0.34214786832164057,2022-09-17,NA
+Dačice,střední,střední,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,268,0.014353041988003428,0.3843283582089552,2022-09-17,NA
+Jindřichův Hradec,nízké,vysoké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,908,0.01934466743363586,0.3964757709251101,2022-09-17,NA
+Kaplice,vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1000,0.050319529009208476,0.271,2022-09-17,NA
+Milevsko,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,284,0.01562585969738652,0.4119718309859155,2022-09-17,NA
+Písek,střední,střední,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",2059,0.03854866792728362,0.30840213695968915,2022-09-17,NA
+Prachatice,vysoké,vysoké,nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",1304,0.03915092923409493,0.29141104294478526,2022-09-17,NA
+Soběslav,velmi vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,644,0.02932337674164466,0.281055900621118,2022-09-17,NA
+Strakonice,vysoké,střední,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,906,0.02013288593586809,0.34216335540838855,2022-09-17,NA
+Tábor,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2647,0.03288648138254917,0.3282961843596524,2022-09-17,NA
+Trhové Sviny,velmi vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,328,0.016951780453770222,0.4329268292682927,2022-09-17,NA
+Třeboň,vysoké,vysoké,střední,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,721,0.02922696501682273,0.3897364771151179,2022-09-17,NA
+Týn nad Vltavou,nízké,vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,287,0.0203647200737955,0.37282229965156793,2022-09-17,NA
+Vimperk,vysoké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",582,0.03331043956043956,0.3745704467353952,2022-09-17,NA
+Vodňany,vysoké,střední,vysoké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1119,0.09382074285235181,0.2931188561215371,2022-09-17,NA
+Blovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,290,0.02370443027627922,0.36551724137931035,2022-09-17,NA
+Domažlice,vysoké,střední,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,1287,0.03180604982206406,0.33644133644133645,2022-09-17,NA
+Horažďovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,338,0.029327548806941432,0.35798816568047337,2022-09-17,NA
+Horšovský Týn,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,573,0.038705755201296946,0.2792321116928447,2022-09-17,NA
+Klatovy,vysoké,nízké,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,2086,0.041152101006115605,0.30057526366251197,2022-09-17,NA
+Kralovice,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,626,0.027834593152512226,0.33865814696485624,2022-09-17,NA
+Nepomuk,vysoké,střední,nízké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,245,0.021115228820132725,0.3877551020408163,2022-09-17,NA
+Nýřany,střední,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1853,0.031848885374950585,0.2930383162439288,2022-09-17,NA
+Plzeň,vysoké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,16444,0.08439745432149456,0.2694599854050109,2022-09-17,NA
+Přeštice,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,601,0.02623881248635669,0.3211314475873544,2022-09-17,NA
+Rokycany,vysoké,střední,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1737,0.03509870880397664,0.3149107656879678,2022-09-17,NA
+Stod,velmi vysoké,střední,nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1078,0.04609004232758989,0.3302411873840445,2022-09-17,NA
+Stříbro,velmi vysoké,velmi vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,913,0.05318653151578702,0.24644030668127054,2022-09-17,NA
+Sušice,vysoké,střední,vysoké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,709,0.029494966303353024,0.3540197461212976,2022-09-17,NA
+Tachov,velmi vysoké,velmi vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,3750,0.10074416355479139,0.2176,2022-09-17,NA
+Aš,velmi vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,598,0.03395605019590029,0.29431438127090304,2022-09-17,NA
+Cheb,velmi vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2779,0.05567241621091011,0.2986685858222382,2022-09-17,NA
+Karlovy Vary,vysoké,velmi vysoké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,6784,0.07797611521706647,0.32856721698113206,2022-09-17,NA
+Kraslice,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",245,0.01884470425351896,0.35918367346938773,2022-09-17,NA
+Mariánské Lázně,velmi vysoké,velmi vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2527,0.1057056805822806,0.3375544123466561,2022-09-17,NA
+Ostrov,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,882,0.032221532166733645,0.35827664399092973,2022-09-17,NA
+Sokolov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1578,0.021180639445920916,0.38022813688212925,2022-09-17,NA
+Bílina,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,423,0.018793317931402168,0.35697399527186763,2022-09-17,NA
+Děčín,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1066,0.014002180452115433,0.37617260787992496,2022-09-17,NA
+Chomutov,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2422,0.029698478290191656,0.36829066886870354,2022-09-17,NA
+Kadaň,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1517,0.03524055102562316,0.3098220171390903,2022-09-17,NA
+Litoměřice,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1632,0.027775886717952208,0.3743872549019608,2022-09-17,NA
+Litvínov,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,796,0.021551957545892675,0.43467336683417085,2022-09-17,NA
+Louny,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1018,0.023420065797041433,0.3280943025540275,2022-09-17,NA
+Lovosice,střední,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,526,0.01904761904761905,0.29277566539923955,2022-09-17,NA
+Most,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2059,0.027824700333788293,0.3623118018455561,2022-09-17,NA
+Podbořany,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,270,0.017253498626110295,0.3148148148148148,2022-09-17,NA
+Roudnice nad Labem,vysoké,vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,741,0.022587331585685544,0.39946018893387314,2022-09-17,NA
+Rumburk,velmi vysoké,velmi vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,764,0.023486734913461833,0.3416230366492147,2022-09-17,NA
+Teplice,velmi vysoké,velmi vysoké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3989,0.037518105378002674,0.3404361995487591,2022-09-17,NA
+Ústí nad Labem,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,3196,0.026936140445508256,0.3576345431789737,2022-09-17,NA
+Varnsdorf,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,367,0.018545656677952396,0.35149863760217986,2022-09-17,NA
+Žatec,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,967,0.035488843217850854,0.2936918304033092,2022-09-17,NA
+Česká Lípa,velmi vysoké,velmi vysoké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2331,0.030389549436795994,0.37022737022737023,2022-09-17,NA
+Frýdlant,velmi vysoké,velmi vysoké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,569,0.02321501427988576,0.3532513181019332,2022-09-17,NA
+Jablonec nad Nisou,střední,velmi vysoké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2347,0.04205188848276356,0.34810396250532594,2022-09-17,NA
+Jilemnice,velmi nízké,velmi nízké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,874,0.039810512890589414,0.38329519450800914,2022-09-17,NA
+Liberec,střední,vysoké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,6895,0.04742547425474255,0.32356780275562,2022-09-17,NA
+Nový Bor,velmi vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,480,0.018255115235414923,0.38333333333333336,2022-09-17,NA
+Semily,velmi nízké,střední,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,509,0.019906140007821666,0.39096267190569745,2022-09-17,NA
+Tanvald,velmi vysoké,velmi vysoké,vysoké,Více vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",1025,0.05055736411167012,0.3775609756097561,2022-09-17,NA
+Turnov,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1148,0.03395344710301381,0.3353658536585366,2022-09-17,NA
+Železný Brod,nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,356,0.029273908395691144,0.4044943820224719,2022-09-17,NA
+Broumov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,533,0.03374058365512439,0.425891181988743,2022-09-17,NA
+Dobruška,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,517,0.025685612082670905,0.402321083172147,2022-09-17,NA
+Dvůr Králové nad Labem,nízké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,685,0.025478891575227824,0.3722627737226277,2022-09-17,NA
+Hořice,velmi vysoké,nízké,nízké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,576,0.03138280483818241,0.3871527777777778,2022-09-17,NA
+Hradec Králové,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,5294,0.03600919615285203,0.3252738949754439,2022-09-17,NA
+Jaroměř,velmi vysoké,vysoké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,811,0.042169301164725455,0.3316892725030826,2022-09-17,NA
+Jičín,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1548,0.03192213309137401,0.39082687338501293,2022-09-17,NA
+Kostelec nad Orlicí,vysoké,střední,velmi nízké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,667,0.02664589325663151,0.37031484257871067,2022-09-17,NA
+Náchod,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2088,0.03460276424381028,0.3544061302681992,2022-09-17,NA
+Nová Paka,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",564,0.04244750508015353,0.33156028368794327,2022-09-17,NA
+Nové Město nad Metují,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,436,0.030886936809294416,0.3922018348623853,2022-09-17,NA
+Nový Bydžov,střední,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,519,0.029798472756502267,0.3371868978805395,2022-09-17,NA
+Rychnov nad Kněžnou,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1686,0.04933719603195505,0.3107947805456702,2022-09-17,NA
+Trutnov,nízké,vysoké,střední,Méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",1537,0.02437902483900644,0.3715029277813923,2022-09-17,NA
+Vrchlabí,velmi vysoké,střední,nízké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1239,0.04508241458356075,0.3502824858757062,2022-09-17,NA
+Česká Třebová,velmi vysoké,vysoké,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,342,0.019156444295076458,0.38011695906432746,2022-09-17,NA
+Hlinsko,vysoké,velmi nízké,vysoké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,492,0.023410734678340313,0.2926829268292683,2022-09-17,NA
+Holice,střední,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,873,0.04838173354023498,0.28865979381443296,2022-09-17,NA
+Chrudim,vysoké,nízké,střední,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2868,0.03426850834010419,0.3507670850767085,2022-09-17,NA
+Králíky,velmi vysoké,vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",334,0.03875609190067301,0.3712574850299401,2022-09-17,NA
+Lanškroun,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,693,0.030019493177387915,0.341991341991342,2022-09-17,NA
+Litomyšl,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1102,0.04065220599085141,0.2985480943738657,2022-09-17,NA
+Moravská Třebová,vysoké,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,417,0.016055752348683196,0.29256594724220625,2022-09-17,NA
+Pardubice,vysoké,střední,velmi nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,6429,0.04866657078188989,0.3252449836677555,2022-09-17,NA
+Polička,nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,753,0.038388988019372926,0.29880478087649404,2022-09-17,NA
+Přelouč,vysoké,střední,střední,Výrazně více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,1178,0.045325125048095424,0.29711375212224106,2022-09-17,NA
+Svitavy,střední,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,499,0.015939945695575785,0.4288577154308617,2022-09-17,NA
+Ústí nad Orlicí,střední,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,577,0.021764550563916865,0.32062391681109187,2022-09-17,NA
+Vysoké Mýto,velmi vysoké,nízké,velmi nízké,Výrazně více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,1096,0.0337417646696632,0.3302919708029197,2022-09-17,NA
+Žamberk,střední,velmi nízké,velmi nízké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,825,0.028002172289729142,0.3478787878787879,2022-09-17,NA
+Bystřice nad Pernštejnem,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",402,0.02044241037376049,0.3805970149253731,2022-09-17,NA
+Havlíčkův Brod,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1364,0.025807916445924468,0.36363636363636365,2022-09-17,NA
+Humpolec,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,944,0.052684451389664023,0.336864406779661,2022-09-17,NA
+Chotěboř,nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,373,0.017139181179065387,0.3753351206434316,2022-09-17,NA
+Jihlava,nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,4038,0.0399232777030768,0.32169390787518576,2022-09-17,NA
+Moravské Budějovice,vysoké,nízké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,284,0.012393628627536547,0.2746478873239437,2022-09-17,NA
+Náměšť nad Oslavou,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,281,0.020942018184528247,0.35587188612099646,2022-09-17,NA
+Nové Město na Moravě,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,438,0.02261695755447692,0.3789954337899543,2022-09-17,NA
+Pacov,střední,velmi nízké,nízké,Více vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,442,0.04748093243098077,0.3257918552036199,2022-09-17,NA
+Pelhřimov,nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1936,0.04295444964611391,0.3202479338842975,2022-09-17,NA
+Světlá nad Sázavou,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,451,0.023044300240151243,0.401330376940133,2022-09-17,NA
+Telč,velmi nízké,velmi nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,375,0.028966476131623668,0.4026666666666667,2022-09-17,NA
+Třebíč,velmi nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1491,0.02014755959137344,0.33668678739101277,2022-09-17,NA
+Velké Meziříčí,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1049,0.02879653014164928,0.340324118207817,2022-09-17,NA
+Žďár nad Sázavou,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1165,0.02742337931359164,0.3536480686695279,2022-09-17,NA
+Blansko,velmi nízké,nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1494,0.026189850118327637,0.3293172690763052,2022-09-17,NA
+Boskovice,velmi nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1266,0.024318561631994466,0.34755134281200634,2022-09-17,NA
+Brno,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,20610,0.05389573881094651,0.3256186317321689,2022-09-17,NA
+Břeclav,nízké,střední,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,2142,0.03593718542379706,0.3006535947712418,2022-09-17,NA
+Bučovice,střední,střední,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,378,0.023347745521927116,0.3148148148148148,2022-09-17,NA
+Hodonín,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,874,0.014427441852787269,0.2803203661327231,2022-09-17,NA
+Hustopeče,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,1157,0.03172557514601442,0.34226447709593777,2022-09-17,NA
+Ivančice,střední,střední,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,661,0.02681215267918712,0.264750378214826,2022-09-17,NA
+Kuřim,nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,910,0.03863462681497835,0.38461538461538464,2022-09-17,NA
+Kyjov,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,906,0.016315505132360887,0.2792494481236203,2022-09-17,NA
+Mikulov,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,722,0.035376549561467976,0.36426592797783935,2022-09-17,NA
+Moravský Krumlov,střední,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",409,0.018172931662667733,0.36674816625916873,2022-09-17,NA
+Pohořelice,velmi vysoké,nízké,velmi vysoké,Výrazně více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,726,0.048741188318227595,0.26859504132231404,2022-09-17,NA
+Rosice,velmi nízké,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,595,0.022503782148260213,0.38823529411764707,2022-09-17,NA
+Slavkov u Brna,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,52 - 56 tisíc Kč,411,0.016931696465353877,0.3819951338199513,2022-09-17,NA
+Šlapanice,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1891,0.026595595060617143,0.3585404547858276,2022-09-17,NA
+Tišnov,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,877,0.027496472801379526,0.36830102622576966,2022-09-17,NA
+Veselí nad Moravou,nízké,nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,817,0.02178782868419649,0.36474908200734396,2022-09-17,NA
+Vyškov,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1183,0.02263205218955061,0.3448858833474218,2022-09-17,NA
+Znojmo,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2725,0.029604762835973318,0.3746788990825688,2022-09-17,NA
+Židlochovice,střední,velmi nízké,střední,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,720,0.02123705866737457,0.3263888888888889,2022-09-17,NA
+Hranice,střední,střední,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1196,0.03511965937454118,0.28595317725752506,2022-09-17,NA
+Jeseník,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",747,0.01980959452650561,0.3668005354752343,2022-09-17,NA
+Konice,nízké,velmi nízké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,145,0.01362013901934999,0.3448275862068966,2022-09-17,NA
+Lipník nad Bečvou,nízké,střední,vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",220,0.014570501357705809,0.35454545454545455,2022-09-17,NA
+Litovel,střední,nízké,střední,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",558,0.02365008052894804,0.30824372759856633,2022-09-17,NA
+Mohelnice,velmi nízké,nízké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",543,0.029506058794761723,0.30755064456721914,2022-09-17,NA
+Olomouc,nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,4061,0.02455200599743658,0.3484363457276533,2022-09-17,NA
+Prostějov,vysoké,střední,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1635,0.016707882850661163,0.35902140672782873,2022-09-17,NA
+Přerov,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1415,0.017743614179843756,0.35053003533568905,2022-09-17,NA
+Šternberk,střední,vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,268,0.011126333706978868,0.4253731343283582,2022-09-17,NA
+Šumperk,vysoké,vysoké,vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1505,0.021966634069446673,0.36943521594684386,2022-09-17,NA
+Uničov,nízké,střední,velmi vysoké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,427,0.019100017892288424,0.3255269320843091,2022-09-17,NA
+Zábřeh,nízké,nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,464,0.01403890956400714,0.28448275862068967,2022-09-17,NA
+Bystřice pod Hostýnem,vysoké,nízké,velmi vysoké,Více vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,344,0.0225944170771757,0.39244186046511625,2022-09-17,NA
+Holešov,velmi nízké,nízké,střední,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,217,0.010084111715228402,0.3317972350230415,2022-09-17,NA
+Kroměříž,nízké,střední,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1101,0.016171675332687055,0.33787465940054495,2022-09-17,NA
+Luhačovice,velmi nízké,velmi nízké,nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,654,0.03522378413313944,0.327217125382263,2022-09-17,NA
+Otrokovice,střední,nízké,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,908,0.02672789355940186,0.34140969162995594,2022-09-17,NA
+Rožnov pod Radhoštěm,velmi nízké,velmi nízké,střední,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,789,0.02251519561681363,0.3612167300380228,2022-09-17,NA
+Uherské Hradiště,velmi nízké,nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1753,0.01954945912791346,0.31831146605818594,2022-09-17,NA
+Uherský Brod,velmi nízké,velmi nízké,střední,Výrazně méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,932,0.01793687451886066,0.30150214592274677,2022-09-17,NA
+Valašské Klobouky,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,326,0.014141326508480458,0.32515337423312884,2022-09-17,NA
+Valašské Meziříčí,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,1348,0.03230522203848827,0.31305637982195844,2022-09-17,NA
+Vizovice,velmi nízké,velmi nízké,střední,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,352,0.02045084824541018,0.26704545454545453,2022-09-17,NA
+Vsetín,velmi nízké,velmi nízké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,994,0.015262721493719865,0.358148893360161,2022-09-17,NA
+Zlín,velmi nízké,velmi nízké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2363,0.023877610824247445,0.32966567922132883,2022-09-17,NA
+Bílovec,střední,vysoké,střední,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,447,0.017426900584795322,0.33109619686800895,2022-09-17,NA
+Bohumín,vysoké,velmi vysoké,vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,671,0.020224244981614323,0.26527570789865873,2022-09-17,NA
+Bruntál,vysoké,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,"68 - 72,5 tisíc Kč",509,0.014108320860358113,0.35363457760314343,2022-09-17,NA
+Český Těšín,nízké,vysoké,vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,303,0.011892613234947799,0.38613861386138615,2022-09-17,NA
+Frenštát pod Radhoštěm,střední,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,367,0.018814723674766737,0.40054495912806537,2022-09-17,NA
+Frýdek-Místek,velmi nízké,střední,nízké,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,4665,0.04154458584545236,0.5178992497320472,2022-09-17,NA
+Frýdlant nad Ostravicí,nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,554,0.02204097871493933,0.427797833935018,2022-09-17,NA
+Havířov,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,1912,0.022342190749959103,0.4236401673640167,2022-09-17,NA
+Hlučín,velmi nízké,střední,nízké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,334,0.008215269578905943,0.4101796407185629,2022-09-17,NA
+Jablunkov,velmi nízké,velmi nízké,nízké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,298,0.01314164755688834,0.40268456375838924,2022-09-17,NA
+Karviná,velmi vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,"68 - 72,5 tisíc Kč",786,0.012735344632036035,0.37404580152671757,2022-09-17,NA
+Kopřivnice,velmi nízké,střední,nízké,Vzdělávací problémy na míře očekávání,60 - 64 tisíc Kč,855,0.021076763792338412,0.3263157894736842,2022-09-17,NA
+Kravaře,velmi nízké,střední,vysoké,Výrazně méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,98,0.0046005069946483896,0.3163265306122449,2022-09-17,NA
+Krnov,střední,velmi vysoké,velmi vysoké,Výrazně méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,484,0.0121632488942501,0.38016528925619836,2022-09-17,NA
+Nový Jičín,velmi nízké,střední,nízké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,962,0.019736167244527418,0.3180873180873181,2022-09-17,NA
+Odry,vysoké,velmi vysoké,velmi vysoké,Vzdělávací problémy na míře očekávání,64 - 68 tisíc Kč,391,0.02309100572845922,0.3989769820971867,2022-09-17,NA
+Opava,velmi nízké,nízké,střední,Méně vzdělávacích problémů než očekáváno,60 - 64 tisíc Kč,1758,0.017478276431170586,0.3236632536973834,2022-09-17,NA
+Orlová,vysoké,velmi vysoké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,207,0.005620875987726396,0.3188405797101449,2022-09-17,NA
+Ostrava,velmi vysoké,velmi vysoké,vysoké,Více vzdělávacích problémů než očekáváno,52 - 56 tisíc Kč,7114,0.022418867900744353,0.3044700590385156,2022-09-17,NA
+Rýmařov,vysoké,velmi vysoké,velmi vysoké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,333,0.022051519766902856,0.3783783783783784,2022-09-17,NA
+Třinec,velmi nízké,velmi nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,812,0.014902637326334721,0.3793103448275862,2022-09-17,NA
+Vítkov,velmi vysoké,velmi vysoké,velmi vysoké,Více vzdělávacích problémů než očekáváno,64 - 68 tisíc Kč,243,0.01835763390496336,0.37037037037037035,2022-09-17,NA
 Praha,nízké,střední,velmi nízké,Vzdělávací problémy na míře očekávání,NA,94580,0.07084198447438514,0.32665468386551066,2022-09-16,NA
 Benešov,velmi nízké,nízké,velmi nízké,Méně vzdělávacích problémů než očekáváno,56 - 60 tisíc Kč,2349,0.03829787234042553,0.3661132396764581,2022-09-16,NA
 Beroun,nízké,vysoké,velmi nízké,Vzdělávací problémy na míře očekávání,56 - 60 tisíc Kč,2207,0.03339537276620213,0.3407340280924332,2022-09-16,NA
